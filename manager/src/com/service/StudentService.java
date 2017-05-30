@@ -19,11 +19,10 @@ public class StudentService {
 		classDao=new ClassDao();
 	}
 	//学号，姓名，性别，电话，入学年份，班级id，院id，密码
-	public boolean add(String code,String name,int sex,String phone,int entryYear,String gradeName,String collegeName,String majorName){
-		Student student=new Student(code, name, sex, phone, gradeName, collegeName,majorName, entryYear);
-		student.setStu_password(code);//默认密码和学号相同
+	public boolean add(Student student){
+		student.setStu_password(student.getStu_code());//默认密码和学号相同
 		if(studentDao.add(student)){
-			Grade grade=classDao.getGrade(majorName, gradeName);
+			Grade grade=classDao.getGrade(student.getStu_majorName(), student.getStu_className());
 			if(grade!=null){
 				int num=grade.getGra_num();
 				num++;
@@ -32,8 +31,8 @@ public class StudentService {
 				
 			}else{
 				grade=new Grade();
-				grade.setGra_majorName(majorName);
-				grade.setGra_name(gradeName);
+				grade.setGra_majorName(student.getStu_majorName());
+				grade.setGra_name(student.getStu_majorName());
 				grade.setGra_num(1);
 				classDao.add(grade);
 				
@@ -45,13 +44,10 @@ public class StudentService {
 	}
 	
 	
-	public boolean remove(String code,String name,String gradeName,String majorName){
-		Student student=new Student();
-		student.setStu_code(code);
-		student.setStu_name(name);
+	public boolean remove(Student student){
 		if(studentDao.remove(student)){
 			//删除一个学生，如果成功，则说明这个班级是存在的
-			Grade grade=classDao.getGrade(majorName, gradeName);
+			Grade grade=classDao.getGrade(student.getStu_majorName(), student.getStu_className());
 			int num=grade.getGra_num();
 			num--;
 			grade.setGra_num(num);
@@ -64,12 +60,9 @@ public class StudentService {
 	}
 	
 	//学号和名字不能更改
-	public boolean update(String code,String name,int sex,String phone,int entryYear,String gradeName,String collegeName,
-			String majorName,String password,String oldGradeName,String oldMajorName){
-		Student student=new Student(code, name, sex, phone, gradeName, collegeName, majorName, entryYear);
-		student.setStu_password(password);
+	public boolean update(Student student,String oldGradeName,String oldMajorName){
 		if(studentDao.update(student)){
-			if(!oldGradeName.equals(gradeName)||!oldMajorName.equals(majorName)){
+			if(!oldGradeName.equals(student.getStu_className())||!oldMajorName.equals(student.getStu_majorName())){
 				//班级改变，先更新原来所在班级的人数，再更新后面班级的人数
 				Grade grade=classDao.getGrade(oldMajorName, oldGradeName);
 				int num=grade.getGra_num();
@@ -78,7 +71,7 @@ public class StudentService {
 				classDao.update(grade);
 				
 				
-				grade=classDao.getGrade(majorName, gradeName);
+				grade=classDao.getGrade(student.getStu_majorName(), student.getStu_className());
 				if(grade!=null){
 					int num2=grade.getGra_num();
 					num2++;
@@ -87,8 +80,8 @@ public class StudentService {
 					
 				}else{
 					grade=new Grade();
-					grade.setGra_majorName(majorName);
-					grade.setGra_name(gradeName);
+					grade.setGra_majorName(student.getStu_majorName());
+					grade.setGra_name(student.getStu_className());
 					grade.setGra_num(1);
 					classDao.add(grade);
 					
@@ -112,9 +105,6 @@ public class StudentService {
 	
 	
 	public static void main(String args[]){
-		StudentService service=new StudentService();
-		System.out.println(service.add("12388", "yiyi", 0, null, 2015, "16", "13", "88"));
-		Student student=service.getStudentByCode("12388");
-		if(student!=null) System.out.println(student.getStu_name());
+		
 	}
 }

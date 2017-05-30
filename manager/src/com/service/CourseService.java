@@ -1,5 +1,6 @@
 package com.service;
 
+import java.util.Iterator;
 import java.util.List;
 
 import com.dao.CourseDao;
@@ -16,14 +17,25 @@ public class CourseService {
 		courseTimeDao=new CourseTimeDao();
 	}
 	
-	public boolean add(Course course,CourseTime courseTime){
-		if(courseDao.add(course)&&courseTimeDao.add(courseTime)) return true;
-		return false;
+	public boolean add(Course course,List<CourseTime> courseTimes){
+		Iterator<CourseTime> iterator=courseTimes.iterator();
+		while(iterator.hasNext()){
+			if(!courseTimeDao.add(iterator.next())) return false;
+		}
+		if(!courseDao.add(course)) return false;
+		
+		return true;
+		
 	}
 	
-	public boolean remove(Course course,CourseTime courseTime){
-		if(courseDao.remove(course)&&courseTimeDao.add(courseTime)) return true;
-		return false;
+	public boolean remove(Course course,List<CourseTime> courseTimes){
+		Iterator<CourseTime> iterator=courseTimes.iterator();
+		while(iterator.hasNext()){
+			if(!courseTimeDao.remove(iterator.next())) return false;
+		}
+		if(!courseDao.remove(course)) return false;
+		
+		return true;
 	}
 	
 	

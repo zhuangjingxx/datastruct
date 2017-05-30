@@ -10,7 +10,7 @@ public class Teacher {
 	private String tea_sex;
 
 	private String tea_phone;
-	private String tea_colleagId;
+	private String tea_colleagName;
 	private String tea_password;
 	private String tea_couname;
 	public String getTea_code() {
@@ -38,11 +38,13 @@ public class Teacher {
 	public void setTea_phone(String tea_phone) {
 		this.tea_phone = tea_phone;
 	}
-	public String getTea_colleagId() {
-		return tea_colleagId;
+	
+	
+	public String getTea_colleagName() {
+		return tea_colleagName;
 	}
-	public void setTea_colleagId(String tea_colleagId) {
-		this.tea_colleagId = tea_colleagId;
+	public void setTea_colleagName(String tea_colleagName) {
+		this.tea_colleagName = tea_colleagName;
 	}
 	public String getTea_password() {
 		return tea_password;
