@@ -2,22 +2,19 @@ package com.model;
 //   属性：id,课程id,上课日期（周一-周五),开始的节数，结束的节数
 public class CourseTime {
 
-	private String sout_code;
-	private String couuseId;
+	
+	private String courseName;
 	private String day;
 	private int start;
 	private int end;
-	public String getSout_code() {
-		return sout_code;
+	
+
+	
+	public String getCourseName() {
+		return courseName;
 	}
-	public void setSout_code(String sout_code) {
-		this.sout_code = sout_code;
-	}
-	public String getCouuseId() {
-		return couuseId;
-	}
-	public void setCouuseId(String couuseId) {
-		this.couuseId = couuseId;
+	public void setCouuseName(String couuseName) {
+		this.courseName = couuseName;
 	}
 	public String getDay() {
 		return day;

@@ -2,16 +2,12 @@ package com.model;
 //课程id，课程名，开始上课周数，截止上课周数，
 public class Course {
 
-	private String cou_code;
-	private String cou_name;
+
+	private String cou_name;//唯一标识一门课程
 	private String cou_startWeek;
 	private String cou_endWeek;
-	public String getCou_code() {
-		return cou_code;
-	}
-	public void setCou_code(String cou_code) {
-		this.cou_code = cou_code;
-	}
+	private String cou_loaction;
+
 	public String getCou_name() {
 		return cou_name;
 	}
@@ -29,6 +25,12 @@ public class Course {
 	}
 	public void setCou_endWeek(String cou_endWeek) {
 		this.cou_endWeek = cou_endWeek;
+	}
+	public String getCou_loaction() {
+		return cou_loaction;
+	}
+	public void setCou_loaction(String cou_loaction) {
+		this.cou_loaction = cou_loaction;
 	}
 	
 	

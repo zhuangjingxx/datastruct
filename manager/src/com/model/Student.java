@@ -7,13 +7,47 @@ public class Student {
 
 	private String stu_code;
 	private String stu_name;
-	private int stu_sex;
+	private int stu_sex;//0±íÊ¾ÄÐ
 	private String stu_phone;
-	private Date stu_birthday;
 	
-	private String  stu_classId;
-	private String stu_collegeId;
+	private String  stu_className;
+	private String stu_collegeName;
+	private String stu_majorName;
+	private int entryYear;
 	private String stu_password;
+	
+	
+
+	public Student(){}
+	
+	public Student(String stu_code, String stu_name, int stu_sex, String stu_phone, String stu_className,
+			String stu_collegeName,String stu_majorName, int entryYear) {
+		super();
+		this.stu_code = stu_code;
+		this.stu_name = stu_name;
+		this.stu_sex = stu_sex;
+		this.stu_phone = stu_phone;
+		this.stu_className = stu_className;
+		this.stu_collegeName = stu_collegeName;
+		this.stu_majorName=stu_majorName;
+		this.entryYear = entryYear;
+	}
+	
+	
+	public String getStu_majorName() {
+		return stu_majorName;
+	}
+
+	public void setStu_majorName(String stu_majorName) {
+		this.stu_majorName = stu_majorName;
+	}
+
+	public int getEntryYear() {
+		return entryYear;
+	}
+	public void setEntryYear(int entryYear) {
+		this.entryYear = entryYear;
+	}
 	public String getStu_code() {
 		return stu_code;
 	}
@@ -38,23 +72,19 @@ public class Student {
 	public void setStu_phone(String stu_phone) {
 		this.stu_phone = stu_phone;
 	}
-	public Date getStu_birthday() {
-		return stu_birthday;
+
+
+	public String getStu_className() {
+		return stu_className;
 	}
-	public void setStu_birthday(Date stu_birthday) {
-		this.stu_birthday = stu_birthday;
+	public void setStu_className(String stu_className) {
+		this.stu_className = stu_className;
 	}
-	public String getStu_classId() {
-		return stu_classId;
+	public String getStu_collegeName() {
+		return stu_collegeName;
 	}
-	public void setStu_classId(String stu_classId) {
-		this.stu_classId = stu_classId;
-	}
-	public String getStu_collegeId() {
-		return stu_collegeId;
-	}
-	public void setStu_collegeId(String stu_collegeId) {
-		this.stu_collegeId = stu_collegeId;
+	public void setStu_collegeName(String stu_collegeName) {
+		this.stu_collegeName = stu_collegeName;
 	}
 	public String getStu_password() {
 		return stu_password;

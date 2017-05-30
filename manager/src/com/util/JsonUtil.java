@@ -137,7 +137,7 @@ public class JsonUtil {
 		str=courseMap.get("stu_code");
 		temp.append(str+",");
 		str=courseMap.get("cou_code");
-		temp.append(str);
+		temp.append(str+",");
 		str=courseMap.get("tea_code");
 		temp.append(str+",");
 		str=courseMap.get("score");

@@ -1,0 +1,1 @@
+{"stu_code":"12388","stu_name":"yiyi","stu_sex":0,"stu_className":"16","stu_collegeName":"13","stu_majorName":"88","entryYear":2015,"stu_password":"12388"}

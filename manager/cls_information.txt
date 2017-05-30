@@ -1,0 +1,5 @@
+{"gra_majorName":"88j","gra_name":"abd","gra_num":23}
+{"gra_majorName":"8j","gra_name":"abd","gra_num":23}
+{"gra_majorName":"18","gra_name":"12","gra_num":0}
+{"gra_majorName":"18","gra_name":"16","gra_num":0}
+{"gra_majorName":"88","gra_name":"16","gra_num":1}

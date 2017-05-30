@@ -3,7 +3,7 @@ package com.model;
 public class Grade {
 
 	private String gra_code;
-	private String gra_majorId;
+	private String gra_majorName;
 	private String gra_name;
 	private int gra_num;
 	public String getGra_code() {
@@ -12,11 +12,12 @@ public class Grade {
 	public void setGra_code(String gra_code) {
 		this.gra_code = gra_code;
 	}
-	public String getGra_majorId() {
-		return gra_majorId;
+
+	public String getGra_majorName() {
+		return gra_majorName;
 	}
-	public void setGra_majorId(String gra_majorId) {
-		this.gra_majorId = gra_majorId;
+	public void setGra_majorName(String gra_majorName) {
+		this.gra_majorName = gra_majorName;
 	}
 	public String getGra_name() {
 		return gra_name;

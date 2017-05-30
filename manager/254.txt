@@ -1,0 +1,1 @@
+{"stu_code":"12345830000","stu_name":"hahad6","stu_sex":0,"stu_password":"123456300"}

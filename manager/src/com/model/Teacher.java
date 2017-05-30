@@ -8,10 +8,11 @@ public class Teacher {
 	private String tea_code;
 	private String tea_name;
 	private String tea_sex;
-	private Date tea_birthday;
+
 	private String tea_phone;
 	private String tea_colleagId;
 	private String tea_password;
+	private String tea_couname;
 	public String getTea_code() {
 		return tea_code;
 	}
@@ -30,12 +31,7 @@ public class Teacher {
 	public void setTea_sex(String tea_sex) {
 		this.tea_sex = tea_sex;
 	}
-	public Date getTea_birthday() {
-		return tea_birthday;
-	}
-	public void setTea_birthday(Date tea_birthday) {
-		this.tea_birthday = tea_birthday;
-	}
+
 	public String getTea_phone() {
 		return tea_phone;
 	}
@@ -53,6 +49,12 @@ public class Teacher {
 	}
 	public void setTea_password(String tea_password) {
 		this.tea_password = tea_password;
+	}
+	public String getTea_couname() {
+		return tea_couname;
+	}
+	public void setTea_couname(String tea_couname) {
+		this.tea_couname = tea_couname;
 	}
 	
 	
