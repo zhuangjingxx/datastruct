@@ -164,8 +164,9 @@ public class FileUtil {
 	}
 	
 	public static void append(String content,String filename){
+		System.out.println(content);
 		try {
-			BufferedWriter bufferedWriter=new BufferedWriter(new FileWriter(new File(filename),true));
+			BufferedWriter bufferedWriter=new BufferedWriter(new FileWriter(filename,true));
 			bufferedWriter.append(content);
 			bufferedWriter.newLine();
 			bufferedWriter.flush();

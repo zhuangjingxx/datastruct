@@ -164,10 +164,9 @@ public class JsonUtil {
 	}
 	
 	public static void main(String arsg[]){
-		Map<String, String> temp=new HashMap<>();
-		String string="12,234,23,2342,44,3";
-		temp=JsonUtil.stringToCourseMap(string);
-		System.out.println(temp.get("stu_code"));
+		Student student=new Student();
+		student.setStu_name("×¯¾´");
+		System.out.println(JsonUtil.studentToString(student));
 		
 	}
 		

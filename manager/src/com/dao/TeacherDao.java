@@ -28,13 +28,13 @@ import com.util.JsonUtil;
 public class TeacherDao {
 	private BST bst;
 	private BST2 bst2;
-	
+	private BST2 bst22;
 	public TeacherDao(){}
 	
 	public boolean add(Teacher teacher){
 		bst=HashManager.getBST(Config.TEA_INFORMASTION_CODEINDEX_FILENAME);
 		bst2=HashManager.getBST2(Config.TEA_INFORMASTION_NAMEINDEX_FILENAME);
-		
+		bst22=HashManager.getBST2(Config.TEA_INFORMASTION_COUNAMEINDEX_FILENAME);
 		TreeNode treeNode=new TreeNode();
 		TreeNode2 treeNode2=new TreeNode2();
 		
@@ -49,6 +49,11 @@ public class TeacherDao {
 		bst2.setRoot(bst2.add(bst2.getRoot(), treeNode2));
 		HashManager.saveBST2(Config.TEA_INFORMASTION_NAMEINDEX_FILENAME, bst2);
 		
+		TreeNode2 treeNode22=new TreeNode2();
+		treeNode22.setKey(HashUtil.computeKey(teacher.getTea_couname()));
+		treeNode22.setFilename(treeNode.getFilename());
+		bst22.setRoot(bst22.add(bst22.getRoot(), treeNode22));
+		HashManager.saveBST2(Config.TEA_INFORMASTION_COUNAMEINDEX_FILENAME, bst22);
 		FileUtil.append(JsonUtil.teacherToString(teacher), treeNode.getFilename());
 		
 		return true;
@@ -59,6 +64,7 @@ public class TeacherDao {
 	public boolean remove(Teacher teacher){
 		bst=HashManager.getBST(Config.TEA_INFORMASTION_CODEINDEX_FILENAME);
 		bst2=HashManager.getBST2(Config.TEA_INFORMASTION_NAMEINDEX_FILENAME);
+		bst22=HashManager.getBST2(Config.TEA_INFORMASTION_COUNAMEINDEX_FILENAME);
 		
 		int mainkey=HashUtil.computeKey(teacher.getTea_code());
 		int key=HashUtil.computeKey(teacher.getTea_name());
@@ -97,12 +103,14 @@ public class TeacherDao {
 		//维护索引
 		bst.setRoot(bst.remove(bst.getRoot(), mainkey));
 		bst2.setRoot(bst2.remove(bst2.getRoot(), key, mainkey));
+		bst22.setRoot(bst22.remove(bst22.getRoot(),HashUtil.computeKey(teacher.getTea_couname()),mainkey));
 		HashManager.saveBST(Config.TEA_INFORMASTION_CODEINDEX_FILENAME, bst);
 		HashManager.saveBST2(Config.TEA_INFORMASTION_NAMEINDEX_FILENAME, bst2);
-		
+		bst22=HashManager.getBST2(Config.TEA_INFORMASTION_COUNAMEINDEX_FILENAME);
 		return true;
 	}
 	
+	//不能更新教师的名字，工号，课程名称
 	public boolean update(Teacher teacher){
 		bst=HashManager.getBST(Config.TEA_INFORMASTION_CODEINDEX_FILENAME);
 		bst2=HashManager.getBST2(Config.TEA_INFORMASTION_NAMEINDEX_FILENAME);
@@ -217,6 +225,46 @@ public class TeacherDao {
 		
 		return res;
 		
+	}
+	
+	
+	public List<Teacher> geTeachersByCouName(String couName){
+		bst22=HashManager.getBST2(Config.TEA_INFORMASTION_COUNAMEINDEX_FILENAME);
+		List<Teacher> res=null;
+		
+		int key=HashUtil.computeKey(couName);
+		
+		List<TreeNode2> node2s=new ArrayList<>();
+		bst22.getnodes(bst22.getRoot(), key, node2s);
+		if(node2s.size()==0) return res;
+		
+		res=new ArrayList<>();
+		Set<String> filenames=new HashSet<>();
+		Iterator<TreeNode2> iterator=node2s.iterator();
+		while(iterator.hasNext()){
+			filenames.add(iterator.next().getFilename());
+		}
+		
+		Iterator<String> iterator2=filenames.iterator();
+		while(iterator2.hasNext()){
+			try {
+				BufferedReader bufferedReader=new BufferedReader(new FileReader(new File(iterator2.next())));
+				String tmp=null;
+				while((tmp=bufferedReader.readLine())!=null){
+					Teacher teacher=JsonUtil.stringToTeacher(tmp);
+					if(teacher.getTea_couname().equals(couName)) res.add(teacher);
+				}
+				bufferedReader.close();
+			} catch (FileNotFoundException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		
+		return res;
 	}
 	
 	public static void main(String args[]){

@@ -48,7 +48,7 @@ public class BST2 implements Serializable{
 	public void getnodes(TreeNode2 subroot,int key,List<TreeNode2> node2s){
 		if(subroot==null) return;
 		if(key<subroot.getKey()) getnodes(subroot.getLeft(), key, node2s);
-		else if(key>subroot.getKey()) getnodes(subroot, key, node2s);
+		else if(key>subroot.getKey()) getnodes(subroot.getRight(), key, node2s);
 		else {
 			node2s.add(subroot);
 			getnodes(subroot.getLeft(), key, node2s);

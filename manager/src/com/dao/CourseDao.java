@@ -45,7 +45,7 @@ public class CourseDao {
 		treeNode.setFilename("cou_"+treeNode.getKey()%20+".txt");
 		
 		bst.setRoot(bst.add(bst.getRoot(), treeNode));
-		HashManager.saveBST(Config.COU_INFORMASTION_NAMEINDEX_FILENAME, bst);
+		HashManager.saveBST(Config.COU_INFORMASTION_CODEINDEX_FILENAME, bst);
 		
 		FileUtil.append(JsonUtil.courseToString(course), treeNode.getFilename());
 		
@@ -54,7 +54,7 @@ public class CourseDao {
 	
 	
 	public boolean remove(Course course){
-		bst=HashManager.getBST(Config.COU_INFORMASTION_NAMEINDEX_FILENAME);
+		bst=HashManager.getBST(Config.COU_INFORMASTION_CODEINDEX_FILENAME);
 		
 		int key=HashUtil.computeKey(course.getCou_name());
 		TreeNode treeNode=null;
@@ -89,14 +89,14 @@ public class CourseDao {
 		}
 		
 		bst.setRoot(bst.remove(bst.getRoot(), key));
-		HashManager.saveBST(Config.COU_INFORMASTION_NAMEINDEX_FILENAME, bst);
+		HashManager.saveBST(Config.COU_INFORMASTION_CODEINDEX_FILENAME, bst);
 		
 		return true;
 	}
 	
 	
 	public boolean update(Course course){
-		bst=HashManager.getBST(Config.COU_INFORMASTION_NAMEINDEX_FILENAME);
+		bst=HashManager.getBST(Config.COU_INFORMASTION_CODEINDEX_FILENAME);
 		int key=HashUtil.computeKey(course.getCou_name());
 		TreeNode treeNode=null;
 		treeNode=bst.getNode(bst.getRoot(), key);
@@ -141,7 +141,7 @@ public class CourseDao {
 	
 	public Course getCourseByname(String name){
 		Course course=null;
-		bst=HashManager.getBST(Config.COU_INFORMASTION_NAMEINDEX_FILENAME);
+		bst=HashManager.getBST(Config.COU_INFORMASTION_CODEINDEX_FILENAME);
 		
 		int key=HashUtil.computeKey(name);
 		TreeNode treeNode=bst.getNode(bst.getRoot(), key);
@@ -170,13 +170,14 @@ public class CourseDao {
 	
 	public List<Course> getCoursesByString(String str){
 		List<Course> courses=null;
-		bst=HashManager.getBST(Config.COU_INFORMASTION_NAMEINDEX_FILENAME);
+		bst=HashManager.getBST(Config.COU_INFORMASTION_CODEINDEX_FILENAME);
 		
 		Set<String> filenames=new HashSet<>();
 		bst.getFilenames(bst.getRoot(), filenames);
 		if(filenames.size()==0) return courses;
 		
 		Iterator<String> iterator=filenames.iterator();
+		courses=new ArrayList<>();
 		while(iterator.hasNext()){
 			try {
 				BufferedReader bufferedReader=new BufferedReader(new FileReader(new File(iterator.next())));
@@ -202,9 +203,12 @@ public class CourseDao {
 	
 	public static void main(String args[]){
 		Course course=new Course();
-		course.setCou_name("hahada7");
+		course.setCou_name("hahada8");
 		course.setCou_startWeek("3");
 		CourseDao courseDao=new CourseDao();
-		System.out.println(courseDao.update(course));
+		courseDao.add(course);
+		List<Course> tmp=courseDao.getCoursesByString("hahada");
+		System.out.println(tmp);
+		
 	}
 }

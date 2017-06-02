@@ -58,7 +58,7 @@ public class StudentDao {
 		HashManager.saveHashtable2(Config.STU_INFORMASTION_NAMEINDEX_FILENAME, hashtable2);
 		
 
-		FileUtil.appenContent(JsonUtil.studentToString(student), node.getFilename());
+		FileUtil.append(JsonUtil.studentToString(student), node.getFilename());
 		
 		return true;
 	}
@@ -77,7 +77,7 @@ public class StudentDao {
 		
 
 		
-		File file=new File(node.getFilename());
+		String file=node.getFilename();
 		List<String> data=new ArrayList<>();
 		try {
 			
@@ -122,7 +122,7 @@ public class StudentDao {
 		
 
 		
-		File file=new File(node.getFilename());
+		String file=node.getFilename();
 		List<String> data=new ArrayList<>();
 		String tmp=null;
 		
@@ -174,7 +174,7 @@ public class StudentDao {
 		
 		
 		String tmp=null;
-		File file=new File(node.getFilename());
+		String file=node.getFilename();
 		try {
 			BufferedReader bufferedReader=new BufferedReader(new FileReader(file));
 			while((tmp=bufferedReader.readLine())!=null){
@@ -214,7 +214,7 @@ public class StudentDao {
 		Iterator<String> iterator2=filenames.iterator();
 		while(iterator2.hasNext()){
 			try {
-				BufferedReader bufferedReader=new BufferedReader(new FileReader(new File(iterator2.next())));
+				BufferedReader bufferedReader=new BufferedReader(new FileReader(iterator2.next()));
 				String tmp=null;
 				while((tmp=bufferedReader.readLine())!=null){
 					Student student=JsonUtil.StringToStudent(tmp);
@@ -236,18 +236,22 @@ public class StudentDao {
 	
 	public static void main(String args[]){
 		Student student=new Student();
-		student.setStu_name("hahad6");
-		student.setStu_code("12345830000");
+		student.setStu_name("×¯¾´1");
+		student.setStu_code("123458300005");
 		student.setStu_password("123456300");
 		StudentDao studentDao=new StudentDao();
-//		Student tmp=studentDao.getStudentByCode(student.getStu_code());
-//		System.out.println(tmp.getStu_name());
-		List<Student> list=studentDao.getStudentsByName("hahad5");
+//		studentDao.add(student);
+		
+		List<Student> list=studentDao.getStudentsByName("×¯¾´1");
 		if(list!=null){
 			Iterator<Student> iterator=list.iterator();
 			while(iterator.hasNext()){
 				System.out.println(iterator.next().getStu_code());
 			}
 		}
+		
+	
+	
+		
 	}
 }

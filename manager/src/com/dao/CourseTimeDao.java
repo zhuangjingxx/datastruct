@@ -188,10 +188,12 @@ public class CourseTimeDao {
 	
 	public static void main(String args[]){
 		CourseTime courseTime=new CourseTime();
-		courseTime.setCouuseName("123");
+		courseTime.setCouuseName("125");
 		courseTime.setDay("6");
 		CourseTimeDao courseTimeDao=new CourseTimeDao();
-		System.out.println(courseTimeDao.update(courseTime,"5"));
+		System.out.println(courseTimeDao.add(courseTime));
+		List<CourseTime> courseTime2=courseTimeDao.geCourseTime("124");
+		System.out.println(courseTime2);
 		
 	}
 }

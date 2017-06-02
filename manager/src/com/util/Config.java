@@ -15,6 +15,7 @@ public class Config {
 	public static final String 	STU_INFORMASTION_NAMEINDEX_FILENAME="stu_nameindex.txt";//学生信息按名字索引文件的存储路径
 	public static final String 	TEA_INFORMASTION_CODEINDEX_FILENAME="tea_codeindex.txt";//教师信息按工号索引文件的存储路径
 	public static final String 	TEA_INFORMASTION_NAMEINDEX_FILENAME="tea_nameindex.txt";//教师信息按名字索引文件的存储路径
+	public static final String 	TEA_INFORMASTION_COUNAMEINDEX_FILENAME="tea_counameindex.txt";//教师信息按名字索引文件的存储路径
 	public static final String 	COU_INFORMASTION_CODEINDEX_FILENAME="cou_codeindex.txt";//课程信息按课程号索引文件的存储路径
 	public static final String 	COU_INFORMASTION_NAMEINDEX_FILENAME="cou_nameindex.txt";//课程信息按课程名字索引文件的存储路径
 	public static final String 	COUTIME_INFORMASTION_CODEINDEX_FILENAME="coutime_codeindex.txt";//上课时间信息按课程号索引文件的存储路径
