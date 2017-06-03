@@ -1,0 +1,31 @@
+{"tea_code":"20153650779","tea_name":"胡全树","tea_sex":1,"tea_phone":"13560000136","tea_colleagName":"政治与公共管理学院","tea_couname":"船舶振动"}
+{"tea_code":"20153652074","tea_name":"侯文绍","tea_sex":0,"tea_phone":"13560000144","tea_colleagName":"资源与环境科学学院","tea_couname":"船用电器设备"}
+{"tea_code":"20153650247","tea_name":"谢柔雄","tea_sex":0,"tea_phone":"13560000230","tea_colleagName":"艺术学系","tea_couname":"泵与风机"}
+{"tea_code":"20153653460","tea_name":"孙秀韵","tea_sex":1,"tea_phone":"13560000246","tea_colleagName":"电气工程学院","tea_couname":"表面活性剂化学及应用"}
+{"tea_code":"20153651426","tea_name":"杨善婵","tea_sex":1,"tea_phone":"13560000280","tea_colleagName":"艺术学系","tea_couname":"产品学"}
+{"tea_code":"20153651101","tea_name":"万锦姬","tea_sex":0,"tea_phone":"13560000289","tea_colleagName":"国际教育学院","tea_couname":"超精密加工和微细加工"}
+{"tea_code":"20153653497","tea_name":"乔娟伊","tea_sex":0,"tea_phone":"13560000354","tea_colleagName":"新闻与传播学院","tea_couname":"磁盘控制器"}
+{"tea_code":"20153652975","tea_name":"马竹娟","tea_sex":0,"tea_phone":"13560000440","tea_colleagName":"数学与统计学院","tea_couname":"变电站的微机检测"}
+{"tea_code":"20153654838","tea_name":"秦叶媛","tea_sex":1,"tea_phone":"13560000499","tea_colleagName":"水利水电学院  ","tea_couname":"程序设计方法学"}
+{"tea_code":"20153650535","tea_name":"韩松庆","tea_sex":0,"tea_phone":"13560000514","tea_colleagName":"国际教育学院","tea_couname":"传感器原理及应用"}
+{"tea_code":"20153650210","tea_name":"黎淑霄","tea_sex":1,"tea_phone":"13560000567","tea_colleagName":"化学与分子科学学院","tea_couname":"大学俄语"}
+{"tea_code":"20153652650","tea_name":"阎玉彩","tea_sex":0,"tea_phone":"13560000775","tea_colleagName":"哲学学院","tea_couname":"大众传播学"}
+{"tea_code":"20153652894","tea_name":"于行园","tea_sex":1,"tea_phone":"13560000779","tea_colleagName":"新闻与传播学院","tea_couname":"代数图论"}
+{"tea_code":"20153652281","tea_name":"任霭才","tea_sex":0,"tea_phone":"13560000811","tea_colleagName":"政治与公共管理学院","tea_couname":"半导体光电子学"}
+{"tea_code":"20153653334","tea_name":"江航菊","tea_sex":1,"tea_phone":"13560000822","tea_colleagName":"城市设计学院","tea_couname":"半群理论"}
+{"tea_code":"20153652687","tea_name":"邹仪固","tea_sex":1,"tea_phone":"13560000841","tea_colleagName":"物理科学与技术学院","tea_couname":"变电站的微机检测与控制"}
+{"tea_code":"20153652605","tea_name":"张栋辉","tea_sex":1,"tea_phone":"13560000880","tea_colleagName":"艺术学系","tea_couname":"产品学"}
+{"tea_code":"20153651471","tea_name":"夏元奇","tea_sex":0,"tea_phone":"13560001002","tea_colleagName":"文学院","tea_couname":"板壳力学"}
+{"tea_code":"20153651633","tea_name":"萧岩琼","tea_sex":0,"tea_phone":"13560001041","tea_colleagName":"物理科学与技术学院","tea_couname":"变电站的微机检测与控制"}
+{"tea_code":"20153651345","tea_name":"戴彪玉","tea_sex":0,"tea_phone":"13560001334","tea_colleagName":"马克思主义学院","tea_couname":"船舶摇摆"}
+{"tea_code":"20153650166","tea_name":"郑贞霞","tea_sex":0,"tea_phone":"13560001357","tea_colleagName":"经济与管理学院","tea_couname":"磁性物理"}
+{"tea_code":"20153652812","tea_name":"傅政泽","tea_sex":0,"tea_phone":"13560001381","tea_colleagName":"历史学院","tea_couname":"代数学"}
+{"tea_code":"20153651877","tea_name":"陈欣兴","tea_sex":1,"tea_phone":"13560001429","tea_colleagName":"新闻与传播学院","tea_couname":"报纸编辑学"}
+{"tea_code":"20153652524","tea_name":"王光伊","tea_sex":1,"tea_phone":"13560001462","tea_colleagName":"教育科学研究院","tea_couname":"财务管理"}
+{"tea_code":"20153654225","tea_name":"康环风","tea_sex":1,"tea_phone":"13560001488","tea_colleagName":"信息管理学院","tea_couname":"超高真空科学与技术"}
+{"tea_code":"20153652317","tea_name":"崔壮祥","tea_sex":1,"tea_phone":"13560001657","tea_colleagName":"经济与管理学院","tea_couname":"财税法规与税务会计"}
+{"tea_code":"20153654513","tea_name":"邹可琬","tea_sex":1,"tea_phone":"13560001724","tea_colleagName":"水利水电学院  ","tea_couname":"船舶机械控制技术"}
+{"tea_code":"20153653172","tea_name":"易毅荷","tea_sex":1,"tea_phone":"13560001733","tea_colleagName":"法学院","tea_couname":"船舶推进"}
+{"tea_code":"20153652731","tea_name":"秦雁政","tea_sex":0,"tea_phone":"13560001747","tea_colleagName":"城市设计学院","tea_couname":"磁测量技术"}
+{"tea_code":"20153653785","tea_name":"赵纨舒","tea_sex":1,"tea_phone":"13560001785","tea_colleagName":"社会学系","tea_couname":"单片机原理"}
+{"tea_code":"20153652849","tea_name":"林琦楠","tea_sex":0,"tea_phone":"13560001823","tea_colleagName":"土木建筑工程学院","tea_couname":"保健食品监督评价"}

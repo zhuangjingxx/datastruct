@@ -59,7 +59,7 @@ public class CourseChooseDao {
 		HashManager.saveHashtable2(Config.COUCHOOSE_INFORMASTION_TEAINDEX_FILENAME, hashtable22);
 		
 
-		FileUtil.appenContent(JsonUtil.courseMapToString(courseChooseMap), node.getFilename());
+		FileUtil.append(JsonUtil.courseMapToString(courseChooseMap), node.getFilename());
 		
 		return true;
 	}
@@ -70,9 +70,9 @@ public class CourseChooseDao {
 		hashtable2=HashManager.getHashtable2(Config.COUCHOOSE_INFORMASTION_STUCODEINDEX_FILENAME);//按学号索引
 		hashtable22=HashManager.getHashtable2(Config.COUCHOOSE_INFORMASTION_TEAINDEX_FILENAME);//按教师工号和课程号索引
 		
-		int mainkey=HashUtil.computeKey(courseChooseMap.get("stu_code")+courseChooseMap.get("cou_code"));
+		int mainkey=HashUtil.computeKey(courseChooseMap.get("stu_code")+courseChooseMap.get("cou_name"));
 		int key2=HashUtil.computeKey(courseChooseMap.get("stu_code"));
-		int key22=HashUtil.computeKey(courseChooseMap.get("tea_code")+courseChooseMap.get("cou_code"));
+		int key22=HashUtil.computeKey(courseChooseMap.get("tea_code")+courseChooseMap.get("cou_name"));
 		
 		Node node=hashtable.getNode(mainkey);
 		if(node==null) return false;
@@ -87,7 +87,7 @@ public class CourseChooseDao {
 			String tmp=null;
 			while((tmp=bufferedReader.readLine())!=null){
 				Map<String, String> map=JsonUtil.stringToCourseMap(tmp);
-				if(!(map.get("stu_code").equals(courseChooseMap.get("stu_code"))&&map.get("cou_code").equals(courseChooseMap.get("cou_code")))){
+				if(!(map.get(".\\coursechoose_data\\stu_code").equals(courseChooseMap.get("stu_code"))&&map.get("cou_name").equals(courseChooseMap.get("cou_name")))){
 					data.add(tmp);
 				}
 			}
@@ -118,7 +118,7 @@ public class CourseChooseDao {
 	public boolean update(Map<String, String> courseChooseMap){
 		hashtable=HashManager.getHashtable(Config.COUCHOOSE_INFORMASTION_STUINDEX_FILENAME);//按学号和课程号为索引
 		
-		Node node=hashtable.getNode(HashUtil.computeKey(courseChooseMap.get("stu_code")+courseChooseMap.get("cou_code")));
+		Node node=hashtable.getNode(HashUtil.computeKey(courseChooseMap.get("stu_code")+courseChooseMap.get("cou_name")));
 		if(node==null) return false;
 		
 
@@ -132,7 +132,7 @@ public class CourseChooseDao {
 			BufferedReader bufferedReader=new BufferedReader(new FileReader(file));
 			while((tmp=bufferedReader.readLine())!=null){
 				Map<String, String> map=JsonUtil.stringToCourseMap(tmp);
-				if(map.get("stu_code").equals(courseChooseMap.get("stu_code"))&&map.get("cou_code").equals(courseChooseMap.get("cou_code"))){
+				if(map.get("stu_code").equals(courseChooseMap.get("stu_code"))&&map.get("cou_name").equals(courseChooseMap.get("cou_name"))){
 					tmp=JsonUtil.courseMapToString(courseChooseMap);
 				}
 				data.add(tmp);
@@ -210,7 +210,7 @@ public class CourseChooseDao {
 		
 		int key=HashUtil.computeKey(tea_code+cou_code);
 		
-		List<Node2> node2s=hashtable2.getNode(key);
+		List<Node2> node2s=hashtable22.getNode(key);
 		if(node2s==null) return list;
 		list=new ArrayList<>();
 		Iterator<Node2> iterator=node2s.iterator();
@@ -227,7 +227,7 @@ public class CourseChooseDao {
 				String tmp=null;
 				while((tmp=bufferedReader.readLine())!=null){
 					Map<String, String> map=JsonUtil.stringToCourseMap(tmp);
-					if(map.get("tea_code").equals(tea_code)&&map.get("cou_code").equals(cou_code)) list.add(map);
+					if(map.get("tea_code").equals(tea_code)&&map.get("cou_name").equals(cou_code)) list.add(map);
 				}
 				bufferedReader.close();
 			} catch (FileNotFoundException e) {

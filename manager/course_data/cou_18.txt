@@ -1,0 +1,12 @@
+{"cou_name":"办公自动化","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-502"}
+{"cou_name":"保险学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-208"}
+{"cou_name":"编译技术","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-304"}
+{"cou_name":"财务会计","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A4-506"}
+{"cou_name":"操作系统原理","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-302"}
+{"cou_name":"初等数学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-404"}
+{"cou_name":"船舶结构","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-402"}
+{"cou_name":"磁记录","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-405"}
+{"cou_name":"磁盘控制器","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-103"}
+{"cou_name":"大电源测量","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-201"}
+{"cou_name":"大跨度房屋结构","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-206"}
+{"cou_name":"大学物理实验","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-107"}

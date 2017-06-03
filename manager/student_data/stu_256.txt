@@ -1,0 +1,9 @@
+{"stu_code":"201530518599","stu_name":"董娥致","stu_sex":1,"stu_className":"4班","stu_collegeName":"马克思主义学院","stu_majorName":"专业12","entryYear":2015,"stu_password":"201530518599"}
+{"stu_code":"201530508798","stu_name":"高娅良","stu_sex":1,"stu_className":"1班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业3","entryYear":2015,"stu_password":"201530508798"}
+{"stu_code":"201530519985","stu_name":"薛叶露","stu_sex":1,"stu_className":"4班","stu_collegeName":"生命科学学院","stu_majorName":"专业9","entryYear":2015,"stu_password":"201530519985"}
+{"stu_code":"201530516898","stu_name":"郭茂慧","stu_sex":0,"stu_className":"4班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业47","entryYear":2015,"stu_password":"201530516898"}
+{"stu_code":"201530508879","stu_name":"任淑可","stu_sex":0,"stu_className":"1班","stu_collegeName":"新闻与传播学院","stu_majorName":"专业44","entryYear":2015,"stu_password":"201530508879"}
+{"stu_code":"201530516979","stu_name":"林旭姣","stu_sex":1,"stu_className":"1班","stu_collegeName":"化学与分子科学学院","stu_majorName":"专业70","entryYear":2015,"stu_password":"201530516979"}
+{"stu_code":"201530507988","stu_name":"贺枝琦","stu_sex":0,"stu_className":"1班","stu_collegeName":"城市设计学院","stu_majorName":"专业22","entryYear":2015,"stu_password":"201530507988"}
+{"stu_code":"201530509689","stu_name":"吴兴艳","stu_sex":0,"stu_className":"5班","stu_collegeName":"生命科学学院","stu_majorName":"专业7","entryYear":2015,"stu_password":"201530509689"}
+{"stu_code":"201530517789","stu_name":"罗强纨","stu_sex":1,"stu_className":"1班","stu_collegeName":"化学与分子科学学院","stu_majorName":"专业72","entryYear":2015,"stu_password":"201530517789"}

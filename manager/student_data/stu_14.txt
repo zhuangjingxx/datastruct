@@ -1,0 +1,9 @@
+{"stu_code":"201530510102","stu_name":"薛菊保","stu_sex":0,"stu_className":"3班","stu_collegeName":"教育科学研究院","stu_majorName":"专业45","entryYear":2015,"stu_password":"201530510102"}
+{"stu_code":"201530501030","stu_name":"赖腾敬","stu_sex":0,"stu_className":"1班","stu_collegeName":"信息管理学院","stu_majorName":"专业22","entryYear":2015,"stu_password":"201530501030"}
+{"stu_code":"201530519888","stu_name":"刘文和","stu_sex":0,"stu_className":"2班","stu_collegeName":"外国语言文学学院","stu_majorName":"专业77","entryYear":2015,"stu_password":"201530519888"}
+{"stu_code":"201530501111","stu_name":"萧雁琛","stu_sex":0,"stu_className":"5班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业87","entryYear":2015,"stu_password":"201530501111"}
+{"stu_code":"201530502002","stu_name":"姚云功","stu_sex":1,"stu_className":"5班","stu_collegeName":"水利水电学院  ","stu_majorName":"专业3","entryYear":2015,"stu_password":"201530502002"}
+{"stu_code":"201530519969","stu_name":"孟月健","stu_sex":1,"stu_className":"1班","stu_collegeName":"城市设计学院","stu_majorName":"专业4","entryYear":2015,"stu_password":"201530519969"}
+{"stu_code":"201530500220","stu_name":"白泰柔","stu_sex":0,"stu_className":"5班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业10","entryYear":2015,"stu_password":"201530500220"}
+{"stu_code":"201530500301","stu_name":"谭婵辰","stu_sex":1,"stu_className":"3班","stu_collegeName":"经济与管理学院","stu_majorName":"专业100","entryYear":2015,"stu_password":"201530500301"}
+{"stu_code":"201530518997","stu_name":"刘林荷","stu_sex":1,"stu_className":"5班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业89","entryYear":2015,"stu_password":"201530518997"}

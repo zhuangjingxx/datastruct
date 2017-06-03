@@ -1,0 +1,10 @@
+{"stu_code":"201530505000","stu_name":"戴炎萍","stu_sex":0,"stu_className":"2班","stu_collegeName":"数学与统计学院","stu_majorName":"专业24","entryYear":2015,"stu_password":"201530505000"}
+{"stu_code":"201530500050","stu_name":"金旭壮","stu_sex":0,"stu_className":"3班","stu_collegeName":"马克思主义学院","stu_majorName":"专业56","entryYear":2015,"stu_password":"201530500050"}
+{"stu_code":"201530510013","stu_name":"江飘时","stu_sex":0,"stu_className":"5班","stu_collegeName":"城市设计学院","stu_majorName":"专业94","entryYear":2015,"stu_password":"201530510013"}
+{"stu_code":"201530509998","stu_name":"邵和琳","stu_sex":1,"stu_className":"2班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业65","entryYear":2015,"stu_password":"201530509998"}
+{"stu_code":"201530500212","stu_name":"戴琰天","stu_sex":1,"stu_className":"1班","stu_collegeName":"马克思主义学院","stu_majorName":"专业45","entryYear":2015,"stu_password":"201530500212"}
+{"stu_code":"201530513100","stu_name":"袁婉慧","stu_sex":1,"stu_className":"3班","stu_collegeName":"城市设计学院","stu_majorName":"专业46","entryYear":2015,"stu_password":"201530513100"}
+{"stu_code":"201530501022","stu_name":"于 涛筠","stu_sex":1,"stu_className":"4班","stu_collegeName":"经济与管理学院","stu_majorName":"专业87","entryYear":2015,"stu_password":"201530501022"}
+{"stu_code":"201530518989","stu_name":"戴康维","stu_sex":0,"stu_className":"3班","stu_collegeName":"艺术学系","stu_majorName":"专业43","entryYear":2015,"stu_password":"201530518989"}
+{"stu_code":"201530501103","stu_name":"孙华玉","stu_sex":0,"stu_className":"1班","stu_collegeName":"经济与管理学院","stu_majorName":"专业56","entryYear":2015,"stu_password":"201530501103"}
+{"stu_code":"201530519799","stu_name":"任明承","stu_sex":0,"stu_className":"4班","stu_collegeName":"社会学系","stu_majorName":"专业83","entryYear":2015,"stu_password":"201530519799"}

@@ -1,0 +1,12 @@
+{"cou_name":"半导体器件课程设计","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A4-403"}
+{"cou_name":"表面活性物质","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-502"}
+{"cou_name":"薄膜物理","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A2-404"}
+{"cou_name":"财政与税收理论","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-108"}
+{"cou_name":"超导磁体及应用","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-202"}
+{"cou_name":"城市规划原理","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-104"}
+{"cou_name":"船舶概论","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A5-208"}
+{"cou_name":"船舶设计原理","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-103"}
+{"cou_name":"催化原理","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-501"}
+{"cou_name":"大型火电机组控制","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-507"}
+{"cou_name":"代数曲面","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-307"}
+{"cou_name":"代数学","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A4-405"}

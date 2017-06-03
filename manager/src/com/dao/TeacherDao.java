@@ -39,7 +39,7 @@ public class TeacherDao {
 		TreeNode2 treeNode2=new TreeNode2();
 		
 		treeNode.setKey(HashUtil.computeKey(teacher.getTea_code()));
-		treeNode.setFilename("tea_"+treeNode.getKey()%50+".txt");
+		treeNode.setFilename(".\\teacher_data\\tea_"+treeNode.getKey()%50+".txt");
 		if(bst.getNode(bst.getRoot(), treeNode.getKey())!=null) return false;
 		bst.setRoot(bst.add(bst.getRoot(), treeNode));
 		HashManager.saveBST(Config.TEA_INFORMASTION_CODEINDEX_FILENAME, bst);

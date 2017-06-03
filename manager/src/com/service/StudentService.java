@@ -22,7 +22,8 @@ public class StudentService {
 	public boolean add(Student student){
 		student.setStu_password(student.getStu_code());//默认密码和学号相同
 		if(studentDao.add(student)){
-			Grade grade=classDao.getGrade(student.getStu_majorName(), student.getStu_className());
+			Grade grade=null;
+			grade=classDao.getGrade(student.getStu_majorName(), student.getStu_className());
 			if(grade!=null){
 				int num=grade.getGra_num();
 				num++;
@@ -32,7 +33,7 @@ public class StudentService {
 			}else{
 				grade=new Grade();
 				grade.setGra_majorName(student.getStu_majorName());
-				grade.setGra_name(student.getStu_majorName());
+				grade.setGra_name(student.getStu_className());
 				grade.setGra_num(1);
 				classDao.add(grade);
 				

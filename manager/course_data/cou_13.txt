@@ -1,0 +1,10 @@
+{"cou_name":"板壳非线性力学","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-407"}
+{"cou_name":"半导体器件工艺原理","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A5-105"}
+{"cou_name":"报告文学专题","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-202"}
+{"cou_name":"波谱学实验","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A4-301"}
+{"cou_name":"传热学","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-104"}
+{"cou_name":"船舶操纵","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A4-408"}
+{"cou_name":"船舶电力系统","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A3-103"}
+{"cou_name":"磁记录物理","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-407"}
+{"cou_name":"大学语文","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-208"}
+{"cou_name":"代数图论","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-104"}

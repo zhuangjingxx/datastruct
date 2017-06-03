@@ -1,0 +1,9 @@
+{"cou_name":"半导体瓷敏元件","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-504"}
+{"cou_name":"变分学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-303"}
+{"cou_name":"产品学","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A3-505"}
+{"cou_name":"产业组织学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-507"}
+{"cou_name":"场论","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-401"}
+{"cou_name":"齿轮啮合原理","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A4-204"}
+{"cou_name":"船舶电气传动自动化","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-407"}
+{"cou_name":"船舶推进","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-308"}
+{"cou_name":"当代国际关系","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-207"}

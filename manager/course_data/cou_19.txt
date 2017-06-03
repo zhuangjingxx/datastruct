@@ -1,0 +1,11 @@
+{"cou_name":"半导体集成电路","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A5-108"}
+{"cou_name":"编译方法","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-308"}
+{"cou_name":"程序设计","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-104"}
+{"cou_name":"程序设计方法学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-408"}
+{"cou_name":"船舶静力学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-507"}
+{"cou_name":"船体建造工艺","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-507"}
+{"cou_name":"船体结构图","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-308"}
+{"cou_name":"磁性物理","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-301"}
+{"cou_name":"大型数据库原理与高级开发技术","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-408"}
+{"cou_name":"代用燃料","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-502"}
+{"cou_name":"当代国外社会思维评价","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-505"}

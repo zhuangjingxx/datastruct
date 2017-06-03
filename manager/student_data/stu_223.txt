@@ -1,0 +1,9 @@
+{"stu_code":"201530511102","stu_name":"潘妹力","stu_sex":1,"stu_className":"4班","stu_collegeName":"文学院","stu_majorName":"专业21","entryYear":2015,"stu_password":"201530511102"}
+{"stu_code":"201530502111","stu_name":"胡瑾福","stu_sex":0,"stu_className":"1班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业34","entryYear":2015,"stu_password":"201530502111"}
+{"stu_code":"201530510211","stu_name":"萧蕊生","stu_sex":0,"stu_className":"3班","stu_collegeName":"哲学学院","stu_majorName":"专业99","entryYear":2015,"stu_password":"201530510211"}
+{"stu_code":"201530503002","stu_name":"段楠诚","stu_sex":0,"stu_className":"1班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业43","entryYear":2015,"stu_password":"201530503002"}
+{"stu_code":"201530519997","stu_name":"钱玉璧","stu_sex":0,"stu_className":"2班","stu_collegeName":"法学院","stu_majorName":"专业4","entryYear":2015,"stu_password":"201530519997"}
+{"stu_code":"201530500410","stu_name":"段龙纯","stu_sex":0,"stu_className":"4班","stu_collegeName":"外国语言文学学院","stu_majorName":"专业19","entryYear":2015,"stu_password":"201530500410"}
+{"stu_code":"201530510130","stu_name":"黄茗萍","stu_sex":1,"stu_className":"1班","stu_collegeName":"艺术学系","stu_majorName":"专业90","entryYear":2015,"stu_password":"201530510130"}
+{"stu_code":"201530501220","stu_name":"傅朗士","stu_sex":1,"stu_className":"1班","stu_collegeName":"文学院","stu_majorName":"专业13","entryYear":2015,"stu_password":"201530501220"}
+{"stu_code":"201530511021","stu_name":"龚霭丽","stu_sex":0,"stu_className":"1班","stu_collegeName":"生命科学学院","stu_majorName":"专业94","entryYear":2015,"stu_password":"201530511021"}

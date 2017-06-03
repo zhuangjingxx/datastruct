@@ -1,0 +1,35 @@
+{"stu_code":"201530507101","stu_name":"贺子雪","stu_sex":1,"stu_className":"5班","stu_collegeName":"新闻与传播学院","stu_majorName":"专业47","entryYear":2015,"stu_password":"201530507101"}
+{"stu_code":"201530502070","stu_name":"易雄纯","stu_sex":1,"stu_className":"2班","stu_collegeName":"水利水电学院  ","stu_majorName":"专业65","entryYear":2015,"stu_password":"201530502070"}
+{"stu_code":"201530511061","stu_name":"石蓉强","stu_sex":1,"stu_className":"3班","stu_collegeName":"历史学院","stu_majorName":"专业36","entryYear":2015,"stu_password":"201530511061"}
+{"stu_code":"201530514310","stu_name":"黄富蕊","stu_sex":0,"stu_className":"1班","stu_collegeName":"社会学系","stu_majorName":"专业76","entryYear":2015,"stu_password":"201530514310"}
+{"stu_code":"201530502232","stu_name":"郑媛璐","stu_sex":0,"stu_className":"5班","stu_collegeName":"历史学院","stu_majorName":"专业66","entryYear":2015,"stu_password":"201530502232"}
+{"stu_code":"201530501422","stu_name":"刘梅鸣","stu_sex":0,"stu_className":"1班","stu_collegeName":"城市设计学院","stu_majorName":"专业69","entryYear":2015,"stu_password":"201530501422"}
+{"stu_code":"201530510413","stu_name":"钟婷云","stu_sex":1,"stu_className":"4班","stu_collegeName":"法学院","stu_majorName":"专业10","entryYear":2015,"stu_password":"201530510413"}
+{"stu_code":"201530503123","stu_name":"邱冠淑","stu_sex":0,"stu_className":"3班","stu_collegeName":"数学与统计学院","stu_majorName":"专业69","entryYear":2015,"stu_password":"201530503123"}
+{"stu_code":"201530501503","stu_name":"钟策咏","stu_sex":1,"stu_className":"2班","stu_collegeName":"马克思主义学院","stu_majorName":"专业56","entryYear":2015,"stu_password":"201530501503"}
+{"stu_code":"201530500450","stu_name":"崔荷仁","stu_sex":1,"stu_className":"5班","stu_collegeName":"法学院","stu_majorName":"专业76","entryYear":2015,"stu_password":"201530500450"}
+{"stu_code":"201530507020","stu_name":"贺影东","stu_sex":1,"stu_className":"1班","stu_collegeName":"社会学系","stu_majorName":"专业24","entryYear":2015,"stu_password":"201530507020"}
+{"stu_code":"201530502151","stu_name":"漕昌龙","stu_sex":0,"stu_className":"2班","stu_collegeName":"历史学院","stu_majorName":"专业10","entryYear":2015,"stu_password":"201530502151"}
+{"stu_code":"201530500036","stu_name":"汪惠震","stu_sex":1,"stu_className":"3班","stu_collegeName":"土木建筑工程学院","stu_majorName":"专业84","entryYear":2015,"stu_password":"201530500036"}
+{"stu_code":"201530500531","stu_name":"姚刚全","stu_sex":0,"stu_className":"2班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业34","entryYear":2015,"stu_password":"201530500531"}
+{"stu_code":"201530503042","stu_name":"许婕丹","stu_sex":0,"stu_className":"5班","stu_collegeName":"数学与统计学院","stu_majorName":"专业22","entryYear":2015,"stu_password":"201530503042"}
+{"stu_code":"201530515120","stu_name":"高良姣","stu_sex":1,"stu_className":"5班","stu_collegeName":"艺术学系","stu_majorName":"专业66","entryYear":2015,"stu_password":"201530515120"}
+{"stu_code":"201530505400","stu_name":"钟园岚","stu_sex":1,"stu_className":"5班","stu_collegeName":"国学院","stu_majorName":"专业79","entryYear":2015,"stu_password":"201530505400"}
+{"stu_code":"201530504014","stu_name":"韩维淑","stu_sex":1,"stu_className":"5班","stu_collegeName":"国际教育学院","stu_majorName":"专业97","entryYear":2015,"stu_password":"201530504014"}
+{"stu_code":"201530512033","stu_name":"蔡叶眉","stu_sex":1,"stu_className":"2班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业20","entryYear":2015,"stu_password":"201530512033"}
+{"stu_code":"201530511142","stu_name":"沈娣纯","stu_sex":1,"stu_className":"3班","stu_collegeName":"水利水电学院  ","stu_majorName":"专业27","entryYear":2015,"stu_password":"201530511142"}
+{"stu_code":"201530502313","stu_name":"汪龙永","stu_sex":1,"stu_className":"5班","stu_collegeName":"城市设计学院","stu_majorName":"专业59","entryYear":2015,"stu_password":"201530502313"}
+{"stu_code":"201530511304","stu_name":"孔蓉固","stu_sex":0,"stu_className":"5班","stu_collegeName":"资源与环境科学学院","stu_majorName":"专业66","entryYear":2015,"stu_password":"201530511304"}
+{"stu_code":"201530510332","stu_name":"赵强风","stu_sex":0,"stu_className":"3班","stu_collegeName":"城市设计学院","stu_majorName":"专业7","entryYear":2015,"stu_password":"201530510332"}
+{"stu_code":"201530506210","stu_name":"武固富","stu_sex":0,"stu_className":"1班","stu_collegeName":"水利水电学院  ","stu_majorName":"专业17","entryYear":2015,"stu_password":"201530506210"}
+{"stu_code":"201530500117","stu_name":"贾菁娜","stu_sex":1,"stu_className":"1班","stu_collegeName":"化学与分子科学学院","stu_majorName":"专业54","entryYear":2015,"stu_password":"201530500117"}
+{"stu_code":"201530501008","stu_name":"高眉维","stu_sex":0,"stu_className":"5班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业23","entryYear":2015,"stu_password":"201530501008"}
+{"stu_code":"201530513500","stu_name":"杨华飞","stu_sex":1,"stu_className":"2班","stu_collegeName":"哲学学院","stu_majorName":"专业23","entryYear":2015,"stu_password":"201530513500"}
+{"stu_code":"201530510251","stu_name":"赵致瑾","stu_sex":0,"stu_className":"1班","stu_collegeName":"经济与管理学院","stu_majorName":"专业22","entryYear":2015,"stu_password":"201530510251"}
+{"stu_code":"201530516011","stu_name":"钱永庆","stu_sex":0,"stu_className":"1班","stu_collegeName":"国际教育学院","stu_majorName":"专业60","entryYear":2015,"stu_password":"201530516011"}
+{"stu_code":"201530501341","stu_name":"万梁行","stu_sex":1,"stu_className":"4班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业69","entryYear":2015,"stu_password":"201530501341"}
+{"stu_code":"201530511223","stu_name":"武浩秋","stu_sex":0,"stu_className":"1班","stu_collegeName":"文学院","stu_majorName":"专业8","entryYear":2015,"stu_password":"201530511223"}
+{"stu_code":"201530513005","stu_name":"汪娜荷","stu_sex":0,"stu_className":"5班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业6","entryYear":2015,"stu_password":"201530513005"}
+{"stu_code":"201530512114","stu_name":"韩子天","stu_sex":1,"stu_className":"5班","stu_collegeName":"电气工程学院","stu_majorName":"专业90","entryYear":2015,"stu_password":"201530512114"}
+{"stu_code":"201530501260","stu_name":"赵山海","stu_sex":0,"stu_className":"4班","stu_collegeName":"教育科学研究院","stu_majorName":"专业62","entryYear":2015,"stu_password":"201530501260"}
+{"stu_code":"201530503204","stu_name":"武华晓","stu_sex":0,"stu_className":"1班","stu_collegeName":"资源与环境科学学院","stu_majorName":"专业10","entryYear":2015,"stu_password":"201530503204"}

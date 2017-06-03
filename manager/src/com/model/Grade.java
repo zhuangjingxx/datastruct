@@ -32,6 +32,11 @@ public class Grade {
 		this.gra_num = gra_num;
 	}
 	
+	public static void main(String args[]){
+		Grade grade=new Grade();
+		grade.setGra_majorName("djf");
+		System.out.println(grade.getGra_majorName());
+	}
 	
 	
 }

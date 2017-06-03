@@ -1,0 +1,9 @@
+{"cou_name":"半导体激光器","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-201"}
+{"cou_name":"半导体物理","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-408"}
+{"cou_name":"财务报告分析","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-408"}
+{"cou_name":"超高真空科学与技术","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-308"}
+{"cou_name":"传感器原理及应用","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-307"}
+{"cou_name":"船舶振动","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-502"}
+{"cou_name":"代数几何","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A4-402"}
+{"cou_name":"弹性元件的理论及设计","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-505"}
+{"cou_name":"当代戏剧与电影","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-307"}

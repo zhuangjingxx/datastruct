@@ -1,5 +1,5 @@
 package com.model;
-//工号，姓名，性别，出生日期，电话，院id，密码
+//工号，姓名，性别，，电话，院名，密码，课程名
 
 import java.util.Date;
 
@@ -7,7 +7,7 @@ public class Teacher {
 
 	private String tea_code;
 	private String tea_name;
-	private String tea_sex;
+	private int  tea_sex;
 
 	private String tea_phone;
 	private String tea_colleagName;
@@ -25,13 +25,15 @@ public class Teacher {
 	public void setTea_name(String tea_name) {
 		this.tea_name = tea_name;
 	}
-	public String getTea_sex() {
+	
+	
+
+	public int getTea_sex() {
 		return tea_sex;
 	}
-	public void setTea_sex(String tea_sex) {
+	public void setTea_sex(int tea_sex) {
 		this.tea_sex = tea_sex;
 	}
-
 	public String getTea_phone() {
 		return tea_phone;
 	}

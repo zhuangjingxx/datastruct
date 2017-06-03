@@ -1,0 +1,12 @@
+{"cou_name":"半导体专业","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A5-507"}
+{"cou_name":"材料力学","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-401"}
+{"cou_name":"测量原理与仪器设计","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-408"}
+{"cou_name":"冲击测量及误差","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A4-408"}
+{"cou_name":"传感技术及应用","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A3-407"}
+{"cou_name":"传感器原理","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-208"}
+{"cou_name":"船舶摇摆","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-408"}
+{"cou_name":"磁测量技术","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-102"}
+{"cou_name":"磁传感器","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-404"}
+{"cou_name":"大学俄语","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-102"}
+{"cou_name":"大学物理","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A2-108"}
+{"cou_name":"代数几何Algebraic","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-306"}

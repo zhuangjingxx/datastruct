@@ -1,0 +1,8 @@
+{"stu_code":"201530501012","stu_name":"朱芬兴","stu_sex":1,"stu_className":"3班","stu_collegeName":"历史学院","stu_majorName":"专业22","entryYear":2015,"stu_password":"201530501012"}
+{"stu_code":"201530509988","stu_name":"崔斌学","stu_sex":0,"stu_className":"3班","stu_collegeName":"信息管理学院","stu_majorName":"专业3","entryYear":2015,"stu_password":"201530509988"}
+{"stu_code":"201530500121","stu_name":"姜翠刚","stu_sex":0,"stu_className":"4班","stu_collegeName":"经济与管理学院","stu_majorName":"专业69","entryYear":2015,"stu_password":"201530500121"}
+{"stu_code":"201530519789","stu_name":"廖莲毅","stu_sex":1,"stu_className":"3班","stu_collegeName":"历史学院","stu_majorName":"专业20","entryYear":2015,"stu_password":"201530519789"}
+{"stu_code":"201530510003","stu_name":"谢永胜","stu_sex":0,"stu_className":"1班","stu_collegeName":"国学院","stu_majorName":"专业80","entryYear":2015,"stu_password":"201530510003"}
+{"stu_code":"201530500040","stu_name":"贺东波","stu_sex":1,"stu_className":"1班","stu_collegeName":"艺术学系","stu_majorName":"专业57","entryYear":2015,"stu_password":"201530500040"}
+{"stu_code":"201530518979","stu_name":"卢祥岩","stu_sex":0,"stu_className":"1班","stu_collegeName":"历史学院","stu_majorName":"专业54","entryYear":2015,"stu_password":"201530518979"}
+{"stu_code":"201530518898","stu_name":"李东娣","stu_sex":0,"stu_className":"5班","stu_collegeName":"文学院","stu_majorName":"专业40","entryYear":2015,"stu_password":"201530518898"}

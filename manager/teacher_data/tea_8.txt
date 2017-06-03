@@ -1,0 +1,43 @@
+{"tea_code":"20153654428","tea_name":"潘羽菲","tea_sex":1,"tea_phone":"13560000054","tea_colleagName":"新闻与传播学院","tea_couname":"薄膜物理"}
+{"tea_code":"20153653537","tea_name":"韩时邦","tea_sex":0,"tea_phone":"13560000100","tea_colleagName":"哲学学院","tea_couname":"程序设计及算法语言"}
+{"tea_code":"20153653005","tea_name":"乔民婷","tea_sex":0,"tea_phone":"13560000151","tea_colleagName":"国学院","tea_couname":"磁记录技术"}
+{"tea_code":"20153651511","tea_name":"姜哲强","tea_sex":1,"tea_phone":"13560000162","tea_colleagName":"教育科学研究院","tea_couname":"大跨度房屋结构"}
+{"tea_code":"20153652565","tea_name":"杨 涛霄","tea_sex":1,"tea_phone":"13560000218","tea_colleagName":"生命科学学院","tea_couname":"半导体器件课程设计"}
+{"tea_code":"20153651467","tea_name":"江茗英","tea_sex":1,"tea_phone":"13560000303","tea_colleagName":"外国语言文学学院","tea_couname":"冲击测量及误差"}
+{"tea_code":"20153652808","tea_name":"马舒滢","tea_sex":0,"tea_phone":"13560000321","tea_colleagName":"电气工程学院","tea_couname":"船舶动力装置"}
+{"tea_code":"20153652691","tea_name":"高洁璐","tea_sex":0,"tea_phone":"13560000326","tea_colleagName":"国学院","tea_couname":"船舶建筑美学"}
+{"tea_code":"20153650251","tea_name":"孙梅 涛","tea_sex":0,"tea_phone":"13560000413","tea_colleagName":"信息管理学院","tea_couname":"半导体激光器"}
+{"tea_code":"20153652772","tea_name":"赵珠磊","tea_sex":1,"tea_phone":"13560000431","tea_colleagName":"历史学院","tea_couname":"泵与水机"}
+{"tea_code":"20153650701","tea_name":"任成冠","tea_sex":0,"tea_phone":"13560000584","tea_colleagName":"马克思主义学院","tea_couname":"单片机与接口技术"}
+{"tea_code":"20153653825","tea_name":"李民钧","tea_sex":1,"tea_phone":"13560000601","tea_colleagName":"国学院","tea_couname":"板壳理论"}
+{"tea_code":"20153652646","tea_name":"卢才枫","tea_sex":1,"tea_phone":"13560000820","tea_colleagName":"动力与机械学院","tea_couname":"半导体专业"}
+{"tea_code":"20153652484","tea_name":"马勇浩","tea_sex":0,"tea_phone":"13560000910","tea_colleagName":"社会学系","tea_couname":"传感技术及应用"}
+{"tea_code":"20153653582","tea_name":"陆秋岚","tea_sex":0,"tea_phone":"13560000947","tea_colleagName":"城市设计学院","tea_couname":"磁测量技术"}
+{"tea_code":"20153650495","tea_name":"宋强伯","tea_sex":1,"tea_phone":"13560000994","tea_colleagName":"资源与环境科学学院","tea_couname":"当代国外社会思维评价"}
+{"tea_code":"20153650170","tea_name":"崔丹永","tea_sex":1,"tea_phone":"13560001022","tea_colleagName":"城市设计学院","tea_couname":"半群理论"}
+{"tea_code":"20153653618","tea_name":"马超文","tea_sex":0,"tea_phone":"13560001027","tea_colleagName":"文学院","tea_couname":"报刊编辑学"}
+{"tea_code":"20153654103","tea_name":"贺光爱","tea_sex":1,"tea_phone":"13560001046","tea_colleagName":"电气工程学院","tea_couname":"表面活性剂化学及应用"}
+{"tea_code":"20153650738","tea_name":"萧可妹","tea_sex":0,"tea_phone":"13560001051","tea_colleagName":"国学院","tea_couname":"波谱学"}
+{"tea_code":"20153653249","tea_name":"郭杰琼","tea_sex":1,"tea_phone":"13560001067","tea_colleagName":"化学与分子科学学院","tea_couname":"财政与税收"}
+{"tea_code":"20153652402","tea_name":"潘明发","tea_sex":1,"tea_phone":"13560001072","tea_colleagName":"城市设计学院","tea_couname":"操作系统与编译原理"}
+{"tea_code":"20153653212","tea_name":"林旭以","tea_sex":1,"tea_phone":"13560001081","tea_colleagName":"历史学院","tea_couname":"产业经济学"}
+{"tea_code":"20153651061","tea_name":"何欣薇","tea_sex":1,"tea_phone":"13560001181","tea_colleagName":"历史学院","tea_couname":"代数学"}
+{"tea_code":"20153654392","tea_name":"谢会姣","tea_sex":1,"tea_phone":"13560001274","tea_colleagName":"水利水电学院  ","tea_couname":"测量技术基础"}
+{"tea_code":"20153653050","tea_name":"谢富春","tea_sex":0,"tea_phone":"13560001329","tea_colleagName":"新闻与传播学院","tea_couname":"船舶结构与制图"}
+{"tea_code":"20153651304","tea_name":"田枝娣","tea_sex":1,"tea_phone":"13560001339","tea_colleagName":"国际教育学院","tea_couname":"船体结构"}
+{"tea_code":"20153651593","tea_name":"田兰梅","tea_sex":1,"tea_phone":"13560001347","tea_colleagName":"城市设计学院","tea_couname":"磁测量技术"}
+{"tea_code":"20153654509","tea_name":"赵信琛","tea_sex":0,"tea_phone":"13560001402","tea_colleagName":"文学院","tea_couname":"板壳力学"}
+{"tea_code":"20153654347","tea_name":"李庆盛","tea_sex":1,"tea_phone":"13560001416","tea_colleagName":"物理科学与技术学院","tea_couname":"半导体器件"}
+{"tea_code":"20153653870","tea_name":"吕玲荔","tea_sex":0,"tea_phone":"13560001440","tea_colleagName":"数学与统计学院","tea_couname":"变电站的微机检测"}
+{"tea_code":"20153654185","tea_name":"孔朗义","tea_sex":1,"tea_phone":"13560001452","tea_colleagName":"文学院","tea_couname":"波谱学实验"}
+{"tea_code":"20153651962","tea_name":"蒋康轮","tea_sex":1,"tea_phone":"13560001457","tea_colleagName":"经济与管理学院","tea_couname":"财税法规与税务会计"}
+{"tea_code":"20153653744","tea_name":"龚承莉","tea_sex":1,"tea_phone":"13560001532","tea_colleagName":"经济与管理学院","tea_couname":"船舶设计原理"}
+{"tea_code":"20153651016","tea_name":"罗庆勇","tea_sex":0,"tea_phone":"13560001576","tea_colleagName":"国学院","tea_couname":"代数几何"}
+{"tea_code":"20153654761","tea_name":"谭玉娴","tea_sex":0,"tea_phone":"13560001591","tea_colleagName":"物理科学与技术学院","tea_couname":"蛋白质结构基础"}
+{"tea_code":"20153651755","tea_name":"叶祥欢","tea_sex":1,"tea_phone":"13560001607","tea_colleagName":"经济与管理学院","tea_couname":"半导体变流技术"}
+{"tea_code":"20153650990","tea_name":"董琛荣","tea_sex":1,"tea_phone":"13560001732","tea_colleagName":"经济与管理学院","tea_couname":"船舶设计原理"}
+{"tea_code":"20153654798","tea_name":"姜倩盛","tea_sex":1,"tea_phone":"13560001763","tea_colleagName":"信息管理学院","tea_couname":"大型锅炉概况"}
+{"tea_code":"20153650125","tea_name":"易欣珊","tea_sex":0,"tea_phone":"13560001796","tea_colleagName":"电气工程学院","tea_couname":"当代文学专题"}
+{"tea_code":"20153652321","tea_name":"史翰康","tea_sex":0,"tea_phone":"13560001809","tea_colleagName":"马克思主义学院","tea_couname":"半导体测量"}
+{"tea_code":"20153654059","tea_name":"赖翔丹","tea_sex":1,"tea_phone":"13560001873","tea_colleagName":"土木建筑工程学院","tea_couname":"操作系统原理"}
+{"tea_code":"20153652934","tea_name":"袁德影","tea_sex":1,"tea_phone":"13560001889","tea_colleagName":"国际教育学院","tea_couname":"超精密加工和微细加工"}

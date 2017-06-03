@@ -1,0 +1,8 @@
+{"cou_name":"半导体材料","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-105"}
+{"cou_name":"报刊编辑学","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-405"}
+{"cou_name":"编译原理","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-207"}
+{"cou_name":"产业组织","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A4-501"}
+{"cou_name":"常微分方程","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-203"}
+{"cou_name":"程序设计语言","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-103"}
+{"cou_name":"船舶摇摆与操纵","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-503"}
+{"cou_name":"弹塑性力学","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-107"}

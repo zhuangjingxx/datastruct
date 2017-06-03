@@ -137,7 +137,11 @@ public class ClassDao {
 	public Grade getGrade(String majorName,String gradeName){
 		Grade grade=null;
 		try {
-			BufferedReader bufferedReader=new BufferedReader(new FileReader(new File(Config.CLS_INFORMASTION_FILENAME)));
+			File file=new File(Config.CLS_INFORMASTION_FILENAME);
+			if(!file.exists()){
+				return null;
+			}
+			BufferedReader bufferedReader=new BufferedReader(new FileReader(file));
 			String tmp=null;
 			while((tmp=bufferedReader.readLine())!=null){
 				Grade grade2=JsonUtil.stringToGrade(tmp);
@@ -158,6 +162,12 @@ public class ClassDao {
 	}
 	
 	public static void main(String args[]){
+		try {
+			Class.forName("com.util.Config");
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		Grade grade=new Grade();
 		grade.setGra_majorName("8j");
 		grade.setGra_name("abd");

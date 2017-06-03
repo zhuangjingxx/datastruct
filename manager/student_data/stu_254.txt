@@ -1,0 +1,7 @@
+{"stu_code":"201530510201","stu_name":"高飘咏","stu_sex":1,"stu_className":"3班","stu_collegeName":"社会学系","stu_majorName":"专业34","entryYear":2015,"stu_password":"201530510201"}
+{"stu_code":"201530502101","stu_name":"廖爽琰","stu_sex":0,"stu_className":"3班","stu_collegeName":"资源与环境科学学院","stu_majorName":"专业27","entryYear":2015,"stu_password":"201530502101"}
+{"stu_code":"201530501210","stu_name":"彭平岩","stu_sex":1,"stu_className":"5班","stu_collegeName":"土木建筑工程学院","stu_majorName":"专业70","entryYear":2015,"stu_password":"201530501210"}
+{"stu_code":"201530502020","stu_name":"袁光国","stu_sex":0,"stu_className":"4班","stu_collegeName":"文学院","stu_majorName":"专业49","entryYear":2015,"stu_password":"201530502020"}
+{"stu_code":"201530510120","stu_name":"宋泽利","stu_sex":0,"stu_className":"1班","stu_collegeName":"马克思主义学院","stu_majorName":"专业26","entryYear":2015,"stu_password":"201530510120"}
+{"stu_code":"201530519987","stu_name":"姜琬月","stu_sex":1,"stu_className":"4班","stu_collegeName":"文学院","stu_majorName":"专业3","entryYear":2015,"stu_password":"201530519987"}
+{"stu_code":"201530500400","stu_name":"潘锦兰","stu_sex":1,"stu_className":"4班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业83","entryYear":2015,"stu_password":"201530500400"}

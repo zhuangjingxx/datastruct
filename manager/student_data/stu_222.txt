@@ -1,0 +1,13 @@
+{"stu_code":"201530515000","stu_name":"钟竹茜","stu_sex":1,"stu_className":"3班","stu_collegeName":"信息管理学院","stu_majorName":"专业61","entryYear":2015,"stu_password":"201530515000"}
+{"stu_code":"201530500411","stu_name":"龙友竹","stu_sex":1,"stu_className":"1班","stu_collegeName":"城市设计学院","stu_majorName":"专业80","entryYear":2015,"stu_password":"201530500411"}
+{"stu_code":"201530510050","stu_name":"石若思","stu_sex":0,"stu_className":"3班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业87","entryYear":2015,"stu_password":"201530510050"}
+{"stu_code":"201530519998","stu_name":"贾海家","stu_sex":1,"stu_className":"5班","stu_collegeName":"城市设计学院","stu_majorName":"专业10","entryYear":2015,"stu_password":"201530519998"}
+{"stu_code":"201530502112","stu_name":"黄民黛","stu_sex":0,"stu_className":"2班","stu_collegeName":"动力与机械学院","stu_majorName":"专业47","entryYear":2015,"stu_password":"201530502112"}
+{"stu_code":"201530510212","stu_name":"阎林行","stu_sex":0,"stu_className":"1班","stu_collegeName":"外国语言文学学院","stu_majorName":"专业19","entryYear":2015,"stu_password":"201530510212"}
+{"stu_code":"201530511103","stu_name":"孙昭风","stu_sex":1,"stu_className":"3班","stu_collegeName":"外国语言文学学院","stu_majorName":"专业47","entryYear":2015,"stu_password":"201530511103"}
+{"stu_code":"201530501140","stu_name":"段晶岩","stu_sex":0,"stu_className":"3班","stu_collegeName":"马克思主义学院","stu_majorName":"专业64","entryYear":2015,"stu_password":"201530501140"}
+{"stu_code":"201530500330","stu_name":"易奇育","stu_sex":0,"stu_className":"5班","stu_collegeName":"国际教育学院","stu_majorName":"专业14","entryYear":2015,"stu_password":"201530500330"}
+{"stu_code":"201530503003","stu_name":"孟苑贞","stu_sex":1,"stu_className":"5班","stu_collegeName":"电气工程学院","stu_majorName":"专业74","entryYear":2015,"stu_password":"201530503003"}
+{"stu_code":"201530501302","stu_name":"魏致壮","stu_sex":0,"stu_className":"1班","stu_collegeName":"马克思主义学院","stu_majorName":"专业99","entryYear":2015,"stu_password":"201530501302"}
+{"stu_code":"201530510131","stu_name":"曾颖莉","stu_sex":1,"stu_className":"2班","stu_collegeName":"信息管理学院","stu_majorName":"专业30","entryYear":2015,"stu_password":"201530510131"}
+{"stu_code":"201530511022","stu_name":"宋胜雅","stu_sex":1,"stu_className":"4班","stu_collegeName":"法学院","stu_majorName":"专业36","entryYear":2015,"stu_password":"201530511022"}

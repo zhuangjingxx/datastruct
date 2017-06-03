@@ -1,0 +1,14 @@
+{"cou_name":"保健食品监督评价","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-406"}
+{"cou_name":"薄膜光学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-403"}
+{"cou_name":"财政学","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A3-108"}
+{"cou_name":"财政与信贷","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-304"}
+{"cou_name":"测试技术","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-206"}
+{"cou_name":"策波测量技术","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-503"}
+{"cou_name":"超导及应用","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A3-301"}
+{"cou_name":"超声及应用","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-401"}
+{"cou_name":"抽象代数","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A2-406"}
+{"cou_name":"船舶阻力","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A5-106"}
+{"cou_name":"大众传播学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-304"}
+{"cou_name":"单片机原理","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-402"}
+{"cou_name":"弹性力学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-408"}
+{"cou_name":"当代资本主义经济","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-303"}

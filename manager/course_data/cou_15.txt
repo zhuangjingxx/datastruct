@@ -1,0 +1,8 @@
+{"cou_name":"办公自动化系统设计","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-506"}
+{"cou_name":"半导体化学","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-406"}
+{"cou_name":"操作系统","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-107"}
+{"cou_name":"操作系统与编译原理","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-307"}
+{"cou_name":"程控数字交换","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-404"}
+{"cou_name":"船舶焊接与材料","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A4-505"}
+{"cou_name":"船舶机械控制技术","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-403"}
+{"cou_name":"磁性材料","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-106"}

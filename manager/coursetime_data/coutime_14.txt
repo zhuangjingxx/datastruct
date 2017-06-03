@@ -1,0 +1,16 @@
+{"courseName":"半波实验","day":"星期二","start":1,"end":2}
+{"courseName":"半导体专业实验","day":"星期一","start":1,"end":2}
+{"courseName":"变电站的微机检测与控制","day":"星期一","start":3,"end":4}
+{"courseName":"变分法与张量","day":"星期二","start":4,"end":5}
+{"courseName":"表面活性剂化学及应用","day":"星期四","start":2,"end":3}
+{"courseName":"表面活性剂化学及应用","day":"星期五","start":2,"end":3}
+{"courseName":"测试与信号变换处理","day":"星期五","start":4,"end":5}
+{"courseName":"超精微细加工","day":"星期一","start":1,"end":2}
+{"courseName":"超精微细加工","day":"星期二","start":4,"end":5}
+{"courseName":"磁性测量","day":"星期五","start":2,"end":3}
+{"courseName":"半波实验","day":"星期一","start":1,"end":2}
+{"courseName":"半导体专业实验","day":"星期三","start":2,"end":3}
+{"courseName":"变电站的微机检测与控制","day":"星期二","start":1,"end":2}
+{"courseName":"变电站的微机检测与控制","day":"星期三","start":2,"end":3}
+{"courseName":"变分法与张量","day":"星期三","start":2,"end":3}
+{"courseName":"变分法与张量","day":"星期四","start":3,"end":4}

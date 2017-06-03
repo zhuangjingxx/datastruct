@@ -42,7 +42,7 @@ public class CourseDao {
 		if(treeNode!=null) return false;
 		treeNode=new TreeNode();
 		treeNode.setKey(key);
-		treeNode.setFilename("cou_"+treeNode.getKey()%20+".txt");
+		treeNode.setFilename(".\\course_data\\cou_"+treeNode.getKey()%20+".txt");
 		
 		bst.setRoot(bst.add(bst.getRoot(), treeNode));
 		HashManager.saveBST(Config.COU_INFORMASTION_CODEINDEX_FILENAME, bst);

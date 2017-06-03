@@ -1,0 +1,13 @@
+{"cou_name":"板壳力学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-205"}
+{"cou_name":"半导体理论","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-402"}
+{"cou_name":"泵与水机","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-305"}
+{"cou_name":"变质量系统热力学与新型回转压","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A4-108"}
+{"cou_name":"波谱学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-304"}
+{"cou_name":"财政与税收","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-503"}
+{"cou_name":"成本会计","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-507"}
+{"cou_name":"船舶机械拖动","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A4-205"}
+{"cou_name":"船体结构","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-506"}
+{"cou_name":"船体振动学","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A5-304"}
+{"cou_name":"代数拓扑","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-103"}
+{"cou_name":"单片机与接口技术","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-208"}
+{"cou_name":"蛋白质生物化学技术","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A3-408"}

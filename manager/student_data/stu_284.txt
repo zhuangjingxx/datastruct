@@ -1,0 +1,8 @@
+{"stu_code":"201530519897","stu_name":"钟馥素","stu_sex":1,"stu_className":"1班","stu_collegeName":"动力与机械学院","stu_majorName":"专业96","entryYear":2015,"stu_password":"201530519897"}
+{"stu_code":"201530511002","stu_name":"贺澜媛","stu_sex":1,"stu_className":"5班","stu_collegeName":"哲学学院","stu_majorName":"专业55","entryYear":2015,"stu_password":"201530511002"}
+{"stu_code":"201530501120","stu_name":"薛苑羽","stu_sex":0,"stu_className":"3班","stu_collegeName":"数学与统计学院","stu_majorName":"专业18","entryYear":2015,"stu_password":"201530501120"}
+{"stu_code":"201530502011","stu_name":"邵秀翔","stu_sex":1,"stu_className":"1班","stu_collegeName":"土木建筑工程学院","stu_majorName":"专业3","entryYear":2015,"stu_password":"201530502011"}
+{"stu_code":"201530500310","stu_name":"李聪娟","stu_sex":0,"stu_className":"1班","stu_collegeName":"动力与机械学院","stu_majorName":"专业15","entryYear":2015,"stu_password":"201530500310"}
+{"stu_code":"201530510111","stu_name":"杜朗腾","stu_sex":1,"stu_className":"3班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业6","entryYear":2015,"stu_password":"201530510111"}
+{"stu_code":"201530510030","stu_name":"钱翠策","stu_sex":0,"stu_className":"4班","stu_collegeName":"动力与机械学院","stu_majorName":"专业96","entryYear":2015,"stu_password":"201530510030"}
+{"stu_code":"201530519978","stu_name":"魏树希","stu_sex":0,"stu_className":"5班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业18","entryYear":2015,"stu_password":"201530519978"}

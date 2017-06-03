@@ -1,0 +1,13 @@
+{"stu_code":"201530519579","stu_name":"董苑晓","stu_sex":0,"stu_className":"3班","stu_collegeName":"动力与机械学院","stu_majorName":"专业94","entryYear":2015,"stu_password":"201530519579"}
+{"stu_code":"201530509778","stu_name":"卢博珊","stu_sex":0,"stu_className":"2班","stu_collegeName":"法学院","stu_majorName":"专业18","entryYear":2015,"stu_password":"201530509778"}
+{"stu_code":"201530519498","stu_name":"石彬朗","stu_sex":1,"stu_className":"5班","stu_collegeName":"文学院","stu_majorName":"专业37","entryYear":2015,"stu_password":"201530519498"}
+{"stu_code":"201530508887","stu_name":"姚怡伊","stu_sex":0,"stu_className":"3班","stu_collegeName":"化学与分子科学学院","stu_majorName":"专业51","entryYear":2015,"stu_password":"201530508887"}
+{"stu_code":"201530509859","stu_name":"贺海颖","stu_sex":1,"stu_className":"4班","stu_collegeName":"数学与统计学院","stu_majorName":"专业82","entryYear":2015,"stu_password":"201530509859"}
+{"stu_code":"201530508968","stu_name":"刘河强","stu_sex":0,"stu_className":"5班","stu_collegeName":"化学与分子科学学院","stu_majorName":"专业53","entryYear":2015,"stu_password":"201530508968"}
+{"stu_code":"201530519993","stu_name":"赖心致","stu_sex":1,"stu_className":"3班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业34","entryYear":2015,"stu_password":"201530519993"}
+{"stu_code":"201530507996","stu_name":"曹爱振","stu_sex":0,"stu_className":"5班","stu_collegeName":"国际教育学院","stu_majorName":"专业30","entryYear":2015,"stu_password":"201530507996"}
+{"stu_code":"201530518769","stu_name":"谭弘静岚","stu_sex":0,"stu_className":"2班","stu_collegeName":"数学与统计学院","stu_majorName":"专业48","entryYear":2015,"stu_password":"201530518769"}
+{"stu_code":"201530517959","stu_name":"康策英","stu_sex":0,"stu_className":"1班","stu_collegeName":"物理科学与技术学院","stu_majorName":"专业19","entryYear":2015,"stu_password":"201530517959"}
+{"stu_code":"201530516987","stu_name":"任娟天","stu_sex":1,"stu_className":"2班","stu_collegeName":"教育科学研究院","stu_majorName":"专业84","entryYear":2015,"stu_password":"201530516987"}
+{"stu_code":"201530517878","stu_name":"袁华瑶","stu_sex":1,"stu_className":"5班","stu_collegeName":"哲学学院","stu_majorName":"专业13","entryYear":2015,"stu_password":"201530517878"}
+{"stu_code":"201530517797","stu_name":"沈诚腾","stu_sex":1,"stu_className":"2班","stu_collegeName":"经济与管理学院","stu_majorName":"专业17","entryYear":2015,"stu_password":"201530517797"}

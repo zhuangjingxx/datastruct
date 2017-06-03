@@ -1,0 +1,8 @@
+{"stu_code":"201530519996","stu_name":"许顺莎","stu_sex":1,"stu_className":"5班","stu_collegeName":"数学与统计学院","stu_majorName":"专业11","entryYear":2015,"stu_password":"201530519996"}
+{"stu_code":"201530511020","stu_name":"万娜茜","stu_sex":0,"stu_className":"2班","stu_collegeName":"水利水电学院  ","stu_majorName":"专业7","entryYear":2015,"stu_password":"201530511020"}
+{"stu_code":"201530507999","stu_name":"孔东平","stu_sex":0,"stu_className":"1班","stu_collegeName":"文学院","stu_majorName":"专业41","entryYear":2015,"stu_password":"201530507999"}
+{"stu_code":"201530510210","stu_name":"叶琰贵","stu_sex":0,"stu_className":"3班","stu_collegeName":"数学与统计学院","stu_majorName":"专业31","entryYear":2015,"stu_password":"201530510210"}
+{"stu_code":"201530511101","stu_name":"熊豪晓","stu_sex":1,"stu_className":"4班","stu_collegeName":"生命科学学院","stu_majorName":"专业83","entryYear":2015,"stu_password":"201530511101"}
+{"stu_code":"201530503001","stu_name":"黎萍融","stu_sex":0,"stu_className":"1班","stu_collegeName":"历史学院","stu_majorName":"专业3","entryYear":2015,"stu_password":"201530503001"}
+{"stu_code":"201530502110","stu_name":"邓先叶","stu_sex":0,"stu_className":"5班","stu_collegeName":"外国语言文学学院","stu_majorName":"专业30","entryYear":2015,"stu_password":"201530502110"}
+{"stu_code":"201530501300","stu_name":"陆翰榕","stu_sex":0,"stu_className":"5班","stu_collegeName":"生命科学学院","stu_majorName":"专业98","entryYear":2015,"stu_password":"201530501300"}

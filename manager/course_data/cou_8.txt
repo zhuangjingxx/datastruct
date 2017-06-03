@@ -1,0 +1,8 @@
+{"cou_name":"板壳理论","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-302"}
+{"cou_name":"报纸编辑学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-204"}
+{"cou_name":"毕业设计","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-105"}
+{"cou_name":"财务管理与分析","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-508"}
+{"cou_name":"策略管理","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-102"}
+{"cou_name":"产业经济学","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-407"}
+{"cou_name":"船舶结构与制图","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-304"}
+{"cou_name":"磁存储设备设计原理","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-404"}

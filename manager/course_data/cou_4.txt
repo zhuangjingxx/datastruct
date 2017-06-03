@@ -1,0 +1,8 @@
+{"cou_name":"变流技术","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-307"}
+{"cou_name":"并行处理","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-104"}
+{"cou_name":"并行算法","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A4-505"}
+{"cou_name":"财务案例分析","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-503"}
+{"cou_name":"财务管理","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-202"}
+{"cou_name":"程序设计及算法语言","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-403"}
+{"cou_name":"船舶建筑美学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A2-303"}
+{"cou_name":"大机组协调控制","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-403"}

@@ -24,7 +24,7 @@ public class CollegeDao {
 		try {
 			File file=new File(Config.COL_INFORMASTION_FILENAME);
 			if(!file.exists()){
-				BufferedWriter bufferedWriter=new BufferedWriter(new FileWriter(file));
+				BufferedWriter bufferedWriter=new BufferedWriter(new FileWriter(file,true));
 				bufferedWriter.append(JsonUtil.collegeToString(college));
 				bufferedWriter.newLine();
 				bufferedWriter.close();
@@ -34,12 +34,12 @@ public class CollegeDao {
 			String tmp=null;
 			while((tmp=bufferedReader.readLine())!=null){
 				College college2=JsonUtil.stringToCollege(tmp);
-				if(college.getCol_name().equals(college.getCol_name())){
+				if(college.getCol_name().equals(college2.getCol_name())){
 					return false;
 				}
 			}
 			
-			BufferedWriter bufferedWriter=new BufferedWriter(new FileWriter(file));
+			BufferedWriter bufferedWriter=new BufferedWriter(new FileWriter(file,true));
 			bufferedWriter.append(JsonUtil.collegeToString(college));
 			bufferedWriter.newLine();
 			bufferedWriter.close();

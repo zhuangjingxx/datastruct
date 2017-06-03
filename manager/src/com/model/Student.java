@@ -1,5 +1,5 @@
 package com.model;
-//学号，姓名，性别，电话，出生日期，班级id，院id，密码
+//学号，姓名，性别，电话，，班级名称，院名，密码
 
 import java.util.Date;
 

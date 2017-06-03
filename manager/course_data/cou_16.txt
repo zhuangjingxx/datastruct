@@ -1,0 +1,5 @@
+{"cou_name":"财务成本管理","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-206"}
+{"cou_name":"传动概论","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-101"}
+{"cou_name":"词汇学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-104"}
+{"cou_name":"弹性波","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-505"}
+{"cou_name":"当代文学专题","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A5-108"}

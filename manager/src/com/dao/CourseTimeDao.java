@@ -42,7 +42,7 @@ public class CourseTimeDao {
 		treeNode2=new TreeNode2();
 		treeNode2.setKey(key);
 		treeNode2.setMainkey(mainkey);
-		treeNode2.setFilename("coutime_"+treeNode2.getKey()%20+".txt");
+		treeNode2.setFilename(".\\coursetime_data\\coutime_"+treeNode2.getKey()%20+".txt");
 		
 		bst2.setRoot(bst2.add(bst2.getRoot(), treeNode2));
 		HashManager.saveBST2(Config.COUTIME_INFORMASTION_CODEINDEX_FILENAME, bst2);

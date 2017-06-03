@@ -1,0 +1,8 @@
+{"cou_name":"不育症的病因学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-202"}
+{"cou_name":"操作系统课程设计","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-502"}
+{"cou_name":"超精密加工和微细加工","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-502"}
+{"cou_name":"船舶电站","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-401"}
+{"cou_name":"船舶强度与结构设计","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A4-104"}
+{"cou_name":"船用电器设备","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A4-307"}
+{"cou_name":"大学德语","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A4-102"}
+{"cou_name":"代用运放电路","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-208"}

@@ -1,0 +1,35 @@
+{"tea_code":"20153652418","tea_name":"林松群","tea_sex":1,"tea_phone":"13560000030","tea_colleagName":"艺术学系","tea_couname":"泵与风机"}
+{"tea_code":"20153651572","tea_name":"郭霞娴","tea_sex":1,"tea_phone":"13560000070","tea_colleagName":"动力与机械学院","tea_couname":"操作系统"}
+{"tea_code":"20153654984","tea_name":"金瑾欣","tea_sex":0,"tea_phone":"13560000247","tea_colleagName":"城市设计学院","tea_couname":"表面活性物质"}
+{"tea_code":"20153652012","tea_name":"马生成","tea_sex":1,"tea_phone":"13560000253","tea_colleagName":"外国语言文学学院","tea_couname":"薄膜光学"}
+{"tea_code":"20153654939","tea_name":"赖冠昭","tea_sex":1,"tea_phone":"13560000271","tea_colleagName":"电气工程学院","tea_couname":"操作系统课程设计"}
+{"tea_code":"20153652544","tea_name":"蔡贵月","tea_sex":1,"tea_phone":"13560000404","tea_colleagName":"新闻与传播学院","tea_couname":"办公自动化系统毕业设计"}
+{"tea_code":"20153651653","tea_name":"陈亚克","tea_sex":1,"tea_phone":"13560000452","tea_colleagName":"文学院","tea_couname":"波谱学实验"}
+{"tea_code":"20153654119","tea_name":"方军洁","tea_sex":0,"tea_phone":"13560000530","tea_colleagName":"艺术学系","tea_couname":"船舶静力学"}
+{"tea_code":"20153652670","tea_name":"杜澜倩","tea_sex":1,"tea_phone":"13560000546","tea_colleagName":"电气工程学院","tea_couname":"词汇学"}
+{"tea_code":"20153651815","tea_name":"何飞黛","tea_sex":1,"tea_phone":"13560000574","tea_colleagName":"水利水电学院  ","tea_couname":"大学语文"}
+{"tea_code":"20153653723","tea_name":"钱善眉","tea_sex":0,"tea_phone":"13560000642","tea_colleagName":"化学与分子科学学院","tea_couname":"变分法与张量"}
+{"tea_code":"20153651491","tea_name":"曹伦斌","tea_sex":0,"tea_phone":"13560000729","tea_colleagName":"新闻与传播学院","tea_couname":"船舶结构与制图"}
+{"tea_code":"20153651734","tea_name":"钟雁珠","tea_sex":1,"tea_phone":"13560000735","tea_colleagName":"社会学系","tea_couname":"船舶摇摆与操纵"}
+{"tea_code":"20153654371","tea_name":"黎爱希","tea_sex":0,"tea_phone":"13560000767","tea_colleagName":"化学与分子科学学院","tea_couname":"大学俄语"}
+{"tea_code":"20153654326","tea_name":"赖融媛","tea_sex":1,"tea_phone":"13560000778","tea_colleagName":"外国语言文学学院","tea_couname":"代数曲面"}
+{"tea_code":"20153651158","tea_name":"蒋珍瑶","tea_sex":0,"tea_phone":"13560000885","tea_colleagName":"社会学系","tea_couname":"场论"}
+{"tea_code":"20153650104","tea_name":"吴娥柔","tea_sex":1,"tea_phone":"13560000936","tea_colleagName":"政治与公共管理学院","tea_couname":"船舶振动"}
+{"tea_code":"20153653967","tea_name":"姜风清","tea_sex":1,"tea_phone":"13560000975","tea_colleagName":"哲学学院","tea_couname":"大众传播学"}
+{"tea_code":"20153653598","tea_name":"曹树桂","tea_sex":0,"tea_phone":"13560000989","tea_colleagName":"国际教育学院","tea_couname":"弹性力学"}
+{"tea_code":"20153653886","tea_name":"段翔晓","tea_sex":1,"tea_phone":"13560001017","tea_colleagName":"化学与分子科学学院","tea_couname":"半导体器件工艺原理"}
+{"tea_code":"20153652463","tea_name":"唐倩云","tea_sex":0,"tea_phone":"13560001056","tea_colleagName":"历史学院","tea_couname":"材料力学"}
+{"tea_code":"20153651941","tea_name":"漕雄希","tea_sex":1,"tea_phone":"13560001058","tea_colleagName":"法学院","tea_couname":"财务案例分析"}
+{"tea_code":"20153653804","tea_name":"蔡艳倩","tea_sex":0,"tea_phone":"13560001146","tea_colleagName":"电气工程学院","tea_couname":"词汇学"}
+{"tea_code":"20153652995","tea_name":"朱婉宏","tea_sex":1,"tea_phone":"13560001249","tea_colleagName":"水利水电学院  ","tea_couname":"并行处理与并行程序设计"}
+{"tea_code":"20153652094","tea_name":"曹山岚","tea_sex":0,"tea_phone":"13560001395","tea_colleagName":"动力与机械学院","tea_couname":"当代文学"}
+{"tea_code":"20153653642","tea_name":"孙亚燕","tea_sex":0,"tea_phone":"13560001420","tea_colleagName":"动力与机械学院","tea_couname":"半导体专业"}
+{"tea_code":"20153652382","tea_name":"赖辰婕","tea_sex":0,"tea_phone":"13560001522","tea_colleagName":"城市设计学院","tea_couname":"船舶概论"}
+{"tea_code":"20153651527","tea_name":"何奇滢","tea_sex":0,"tea_phone":"13560001583","tea_colleagName":"法学院","tea_couname":"代用运放电路"}
+{"tea_code":"20153652049","tea_name":"高娴昭","tea_sex":1,"tea_phone":"13560001682","tea_colleagName":"经济与管理学院","tea_couname":"产业组织"}
+{"tea_code":"20153650636","tea_name":"张安茜","tea_sex":1,"tea_phone":"13560001697","tea_colleagName":"城市设计学院","tea_couname":"程控数字交换"}
+{"tea_code":"20153651978","tea_name":"毛志素","tea_sex":1,"tea_phone":"13560001716","tea_colleagName":"物理科学与技术学院","tea_couname":"船舶操纵"}
+{"tea_code":"20153654083","tea_name":"邵旭思","tea_sex":1,"tea_phone":"13560001769","tea_colleagName":"资源与环境科学学院","tea_couname":"大学日语"}
+{"tea_code":"20153651446","tea_name":"许雪娣","tea_sex":0,"tea_phone":"13560001771","tea_colleagName":"电气工程学院","tea_couname":"大学物理"}
+{"tea_code":"20153650393","tea_name":"周文江","tea_sex":0,"tea_phone":"13560001795","tea_colleagName":"动力与机械学院","tea_couname":"当代文学"}
+{"tea_code":"20153653930","tea_name":"武 涛弘静","tea_sex":0,"tea_phone":"13560001945","tea_colleagName":"动力与机械学院","tea_couname":"创造心理学"}

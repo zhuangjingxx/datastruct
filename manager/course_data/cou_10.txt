@@ -1,0 +1,11 @@
+{"cou_name":"办公自动化系统毕业设计","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-105"}
+{"cou_name":"半群理论","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-304"}
+{"cou_name":"毕业论文","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-203"}
+{"cou_name":"编译原理课程设计","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-204"}
+{"cou_name":"城市社会学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-507"}
+{"cou_name":"冲压工艺","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-106"}
+{"cou_name":"传感技术","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-304"}
+{"cou_name":"船体制图","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A3-501"}
+{"cou_name":"创造心理学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-505"}
+{"cou_name":"磁原理及应用","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-501"}
+{"cou_name":"当代西方哲学","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-408"}

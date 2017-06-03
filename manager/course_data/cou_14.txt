@@ -1,0 +1,8 @@
+{"cou_name":"半波实验","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-506"}
+{"cou_name":"半导体专业实验","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-102"}
+{"cou_name":"变电站的微机检测与控制","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-103"}
+{"cou_name":"变分法与张量","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-507"}
+{"cou_name":"表面活性剂化学及应用","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A1-508"}
+{"cou_name":"测试与信号变换处理","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A3-102"}
+{"cou_name":"超精微细加工","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-503"}
+{"cou_name":"磁性测量","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A5-203"}

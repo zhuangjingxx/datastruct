@@ -1,0 +1,15 @@
+{"cou_name":"半导体测量","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-207"}
+{"cou_name":"毕业实习","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A2-307"}
+{"cou_name":"财政与金融","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A5-507"}
+{"cou_name":"测量技术基础","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A3-401"}
+{"cou_name":"成组技术","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A2-102"}
+{"cou_name":"传感器与检测技术","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-406"}
+{"cou_name":"船舶电力系统课程设计","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A4-507"}
+{"cou_name":"船舶动力装置","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A3-205"}
+{"cou_name":"船舶结构力学","cou_startWeek":"3","cou_endWeek":"17","cou_loaction":"A5-201"}
+{"cou_name":"磁路设计与场计算","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A1-106"}
+{"cou_name":"大型锅炉概况","cou_startWeek":"1","cou_endWeek":"15","cou_loaction":"A2-308"}
+{"cou_name":"大学日语","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A4-108"}
+{"cou_name":"大学生心理学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-404"}
+{"cou_name":"蛋白质结构基础","cou_startWeek":"2","cou_endWeek":"16","cou_loaction":"A1-408"}
+{"cou_name":"当代文学","cou_startWeek":"4","cou_endWeek":"18","cou_loaction":"A1-403"}

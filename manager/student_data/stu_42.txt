@@ -1,0 +1,12 @@
+{"stu_code":"201530512210","stu_name":"沈悦强","stu_sex":1,"stu_className":"4班","stu_collegeName":"信息管理学院","stu_majorName":"专业24","entryYear":2015,"stu_password":"201530512210"}
+{"stu_code":"201530503300","stu_name":"张叶柔","stu_sex":1,"stu_className":"3班","stu_collegeName":"艺术学系","stu_majorName":"专业92","entryYear":2015,"stu_password":"201530503300"}
+{"stu_code":"201530501104","stu_name":"郭奇坚","stu_sex":1,"stu_className":"5班","stu_collegeName":"政治与公共管理学院","stu_majorName":"专业50","entryYear":2015,"stu_password":"201530501104"}
+{"stu_code":"201530504110","stu_name":"熊群邦","stu_sex":1,"stu_className":"4班","stu_collegeName":"新闻与传播学院","stu_majorName":"专业80","entryYear":2015,"stu_password":"201530504110"}
+{"stu_code":"201530513101","stu_name":"蔡荣达","stu_sex":1,"stu_className":"4班","stu_collegeName":"国学院","stu_majorName":"专业72","entryYear":2015,"stu_password":"201530513101"}
+{"stu_code":"201530501023","stu_name":"蒋怡婕","stu_sex":0,"stu_className":"1班","stu_collegeName":"生命科学学院","stu_majorName":"专业98","entryYear":2015,"stu_password":"201530501023"}
+{"stu_code":"201530513020","stu_name":"任绍丽","stu_sex":0,"stu_className":"4班","stu_collegeName":"水利水电学院  ","stu_majorName":"专业35","entryYear":2015,"stu_password":"201530513020"}
+{"stu_code":"201530510014","stu_name":"郑钧蓓","stu_sex":1,"stu_className":"1班","stu_collegeName":"历史学院","stu_majorName":"专业57","entryYear":2015,"stu_password":"201530510014"}
+{"stu_code":"201530500132","stu_name":"谭影春","stu_sex":1,"stu_className":"2班","stu_collegeName":"数学与统计学院","stu_majorName":"专业5","entryYear":2015,"stu_password":"201530500132"}
+{"stu_code":"201530505001","stu_name":"武民盛","stu_sex":1,"stu_className":"2班","stu_collegeName":"历史学院","stu_majorName":"专业31","entryYear":2015,"stu_password":"201530505001"}
+{"stu_code":"201530500213","stu_name":"孙轮怡","stu_sex":0,"stu_className":"4班","stu_collegeName":"文学院","stu_majorName":"专业23","entryYear":2015,"stu_password":"201530500213"}
+{"stu_code":"201530500051","stu_name":"于环晨","stu_sex":0,"stu_className":"3班","stu_collegeName":"哲学学院","stu_majorName":"专业68","entryYear":2015,"stu_password":"201530500051"}

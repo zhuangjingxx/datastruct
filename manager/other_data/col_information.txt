@@ -1,0 +1,25 @@
+{"col_name":"哲学学院","col_location":"地点1"}
+{"col_name":"国学院","col_location":"地点2"}
+{"col_name":"文学院","col_location":"地点3"}
+{"col_name":"外国语言文学学院","col_location":"地点4"}
+{"col_name":"新闻与传播学院","col_location":"地点5"}
+{"col_name":"艺术学系","col_location":"地点6"}
+{"col_name":"历史学院","col_location":"地点7"}
+{"col_name":"经济与管理学院","col_location":"地点8"}
+{"col_name":"法学院","col_location":"地点9"}
+{"col_name":"马克思主义学院","col_location":"地点10"}
+{"col_name":"社会学系","col_location":"地点11"}
+{"col_name":"政治与公共管理学院","col_location":"地点12"}
+{"col_name":"教育科学研究院","col_location":"地点13"}
+{"col_name":"信息管理学院","col_location":"地点14"}
+{"col_name":"国际教育学院","col_location":"地点15"}
+{"col_name":"数学与统计学院","col_location":"地点16"}
+{"col_name":"物理科学与技术学院","col_location":"地点17"}
+{"col_name":"化学与分子科学学院","col_location":"地点18"}
+{"col_name":"生命科学学院","col_location":"地点19"}
+{"col_name":"资源与环境科学学院","col_location":"地点20"}
+{"col_name":"动力与机械学院","col_location":"地点21"}
+{"col_name":"电气工程学院","col_location":"地点22"}
+{"col_name":"城市设计学院","col_location":"地点23"}
+{"col_name":"土木建筑工程学院","col_location":"地点24"}
+{"col_name":"水利水电学院  ","col_location":"地点25"}

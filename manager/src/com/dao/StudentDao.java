@@ -31,7 +31,7 @@ import com.util.FilenameManager;
 import com.util.HashUtil;
 import com.util.JsonUtil;
 import com.util.Line;
-import com.util.LineManager;
+
 
 public class StudentDao {
 	private  Hashtable hashtable;
@@ -47,7 +47,7 @@ public class StudentDao {
 		
 		Node node=new Node();
 		node.setKey(HashUtil.computeKey(student.getStu_code()));
-		node.setFilename("stu_"+(node.getKey()%hashtable.getSize())+".txt");
+		node.setFilename(".\\student_data\\stu_"+(node.getKey()%hashtable.getSize())+".txt");
 		if(!hashtable.add(node)) return false;
 		HashManager.saveHashtable(Config.STU_INFORMASTION_CODEINDEX__FILENAME, hashtable);
 		Node2 node2=new Node2();
@@ -240,15 +240,7 @@ public class StudentDao {
 		student.setStu_code("123458300005");
 		student.setStu_password("123456300");
 		StudentDao studentDao=new StudentDao();
-//		studentDao.add(student);
-		
-		List<Student> list=studentDao.getStudentsByName("×¯¾´1");
-		if(list!=null){
-			Iterator<Student> iterator=list.iterator();
-			while(iterator.hasNext()){
-				System.out.println(iterator.next().getStu_code());
-			}
-		}
+		studentDao.add(student);
 		
 	
 	
